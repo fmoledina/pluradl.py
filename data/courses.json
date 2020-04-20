@@ -5203,7 +5203,7 @@
     },
     "ansible-fundamentals": {
         "author": "Pluralsight",
-        "date": "Apr 14 2020",
+        "date": "Apr 15 2020",
         "length": 223,
         "level": "Intermediate",
         "rating": "",
@@ -5212,7 +5212,7 @@
     },
     "ansible-windows-fundamentals": {
         "author": "Pluralsight",
-        "date": "Apr 14 2020",
+        "date": "Apr 15 2020",
         "length": 121,
         "level": "Intermediate",
         "rating": "",
@@ -7423,6 +7423,15 @@
         "rating": "",
         "title": "Automating Cisco Meraki Operations Using APIs",
         "url": "https://www.pluralsight.com/courses/automating-cisco-meraki-operations-using-apis"
+    },
+    "automating-container-management-ansible": {
+        "author": "Pluralsight",
+        "date": "Apr 20 2020",
+        "length": 51,
+        "level": "Beginner",
+        "rating": "",
+        "title": "Automating Container Management with Ansible",
+        "url": "https://www.pluralsight.com/courses/automating-container-management-ansible"
     },
     "automating-deployment-amazon-ec2-ansible": {
         "author": "Pluralsight",
@@ -36781,6 +36790,15 @@
         "rating": "",
         "title": "Implementing Mobile Device Management for Microsoft 365",
         "url": "https://www.pluralsight.com/courses/implementing-mobile-device-management-microsoft-365"
+    },
+    "implementing-monitoring-threat-management-microsoft-365": {
+        "author": "Brian Alderman",
+        "date": "Apr 20 2020",
+        "length": 72,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Implementing and Monitoring Threat Management in Microsoft 365",
+        "url": "https://www.pluralsight.com/courses/implementing-monitoring-threat-management-microsoft-365"
     },
     "implementing-netscaler-12-high-availability": {
         "author": "Jo Harder",
@@ -78608,7 +78626,7 @@
     "tomcat-java-development": {
         "author": "Richard Monson-Haefel",
         "date": "Mar 26 2020",
-        "length": 101,
+        "length": 102,
         "level": "Intermediate",
         "rating": "",
         "title": "Tomcat for Java Development",
@@ -84418,6 +84436,15 @@
         "rating": 55,
         "title": "Web App Hacking: Hacking Password Reset Functionality",
         "url": "https://www.pluralsight.com/courses/web-app-hacking-password-reset-functionality"
+    },
+    "web-app-pen-testing-weak-cryptography": {
+        "author": "Dawid Czagan",
+        "date": "Apr 20 2020",
+        "length": 51,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Web Application Penetration Testing: Weak Cryptography",
+        "url": "https://www.pluralsight.com/courses/web-app-pen-testing-weak-cryptography"
     },
     "web-app-pentesting-configuration-deployment-management": {
         "author": "Lee Allen",

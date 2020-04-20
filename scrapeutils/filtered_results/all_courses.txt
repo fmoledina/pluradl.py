@@ -823,6 +823,7 @@ automatic-dotnet-code-weaving-fody
 automating-aws-operations-aws-cli
 automating-cisco-dna-center-operations-using-apis
 automating-cisco-meraki-operations-using-apis
+automating-container-management-ansible
 automating-deployment-amazon-ec2-ansible
 automating-jenkins-groovy
 automating-networks-ansible-right-way
@@ -4085,6 +4086,7 @@ implementing-incident-management-scsm-2016
 implementing-managing-office-365-advanced-threat-protection
 implementing-message-brokering-amazon-mq
 implementing-mobile-device-management-microsoft-365
+implementing-monitoring-threat-management-microsoft-365
 implementing-netscaler-12-high-availability
 implementing-ospf-ccnp-routing-switching-300-101-route
 implementing-performing-risk-management-iso-iec-27005
@@ -9378,6 +9380,7 @@ web-accessibility-meeting-guidelines
 web-animations-api-building-uis
 web-api-design
 web-app-hacking-password-reset-functionality
+web-app-pen-testing-weak-cryptography
 web-app-pentesting-configuration-deployment-management
 web-app-pentesting-fundamentals
 web-app-pentesting-input-validation
