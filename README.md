@@ -1,6 +1,8 @@
 # Docker version of `pluradl.py`
 This is a basic Docker version of [`pluradl.py`](https://github.com/rojter-tech/pluradl.py/blob/master/pluradl.py) using the `python:3.8.2-slim-buster` base image. The main reason for this is to circumvent an undiagnosed HTTP Error 403 experienced on other platforms (see [Issue #12](https://github.com/rojter-tech/pluradl.py/issues/12) on the upstream repo).
 
+Include the desired `courselist.txt` into `"$PWD"/courses`.
+
 Build the container using:
 ```bash
 docker build -t pluradl.py:latest .
