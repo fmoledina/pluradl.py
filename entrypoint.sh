@@ -3,6 +3,8 @@
 set -e
 cp /pluradl/courses/courselist.txt /pluradl/courselist.txt
 
+DOWNLOAD_VIDEO=${DOWNLOAD_VIDEO:="true"}
+
 if [ -z "${USERNAME}" ]
 then
     echo "Need to provide Pluralsight username in the USERNAME environment variable"
@@ -27,7 +29,6 @@ else
     SUBTITLE="--subtitle"
 fi
 
-echo $DOWNLOAD_VIDEO
 if [ "${DOWNLOAD_VIDEO}" = "true" ]
 then
     python /pluradl/pluradl.py --user "${USERNAME}" --pass "${PASSWORD}" "${SUBTITLE}"
