@@ -163,6 +163,7 @@ advanced-defensive-programming-techniques
 advanced-editing-theories-techniques-premiere-pro-1624
 advanced-editing-workflows-lightroom-2273
 advanced-editor-scripting-unity-monodevelop-1992
+advanced-entity-framework-six-ninja-features
 advanced-generators-and-coroutines
 advanced-git
 advanced-git-techniques
@@ -744,6 +745,7 @@ aspdotnet-webforms4-intro
 aspdotnet-xml-reporting-by-example
 aspdotnet4-delta
 aspdotnetcore-internationalization-deep-dive
+aspect-oriented-programming-spring-aop
 aspect-oriented-programming-spring-aspectj
 aspnet-bundling-minification-resource-optimization
 aspnet-core-3-mvc-request-life-cycle
@@ -1953,6 +1955,7 @@ cold-fusion-introduction
 collaborative-workflows-storyboard-pro-1558
 collectible-items-2d-games-unity-1503
 color-correction-grading-premiere-pro-speedgrade-2361
+color-theory-fundamentals
 color-theory-todays-creative-professionals-1021
 coloring-beauty-sketch-photoshop-1090
 com-advanced-topics
@@ -2725,6 +2728,7 @@ disaster-recovery-for-comptia-server-plus-sk0-004
 disaster-recovery-planning
 discovering-business-analysis-information-through-elicitation
 discovering-use-weldments-sheet-metal-design-solidworks-1848
+discovery-bloodhound
 disintegration-teleportation-reintegration-effects-houdini-2322
 displaying-tables-with-excel
 distorting-nature-after-effects-2218

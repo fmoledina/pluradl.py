@@ -1484,6 +1484,15 @@
         "title": "Advanced Editor Scripting in Unity and MonoDevelop",
         "url": "https://www.pluralsight.com/courses/advanced-editor-scripting-unity-monodevelop-1992"
     },
+    "advanced-entity-framework-six-ninja-features": {
+        "author": "Julie Lerman",
+        "date": "Apr 20 2020",
+        "length": 370,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Advanced Entity Framework 6: The Ninja Features",
+        "url": "https://www.pluralsight.com/courses/advanced-entity-framework-six-ninja-features"
+    },
     "advanced-generators-and-coroutines": {
         "author": "Axel Sirota",
         "date": "Feb 20 2020",
@@ -6712,6 +6721,15 @@
         "rating": 37,
         "title": "ASP.NET Core Internationalization Deep Dive",
         "url": "https://www.pluralsight.com/courses/aspdotnetcore-internationalization-deep-dive"
+    },
+    "aspect-oriented-programming-spring-aop": {
+        "author": "Catalin Tudose",
+        "date": "Apr 20 2020",
+        "length": 86,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Spring Framework: Aspect Oriented Programming with Spring AOP",
+        "url": "https://www.pluralsight.com/courses/aspect-oriented-programming-spring-aop"
     },
     "aspect-oriented-programming-spring-aspectj": {
         "author": "Eberhard Wolff",
@@ -17594,6 +17612,15 @@
         "title": "Color Correction and Grading in Premiere Pro and SpeedGrade",
         "url": "https://www.pluralsight.com/courses/color-correction-grading-premiere-pro-speedgrade-2361"
     },
+    "color-theory-fundamentals": {
+        "author": "Chris Davis",
+        "date": "Apr 20 2020",
+        "length": 32,
+        "level": "Beginner",
+        "rating": "",
+        "title": "Color Theory Fundamentals",
+        "url": "https://www.pluralsight.com/courses/color-theory-fundamentals"
+    },
     "color-theory-todays-creative-professionals-1021": {
         "author": "Eddie Russell",
         "date": "Feb 11 2013",
@@ -24541,6 +24568,15 @@
         "rating": "",
         "title": "Discovering the Use of Weldments & Sheet Metal Design: SolidWorks",
         "url": "https://www.pluralsight.com/courses/discovering-use-weldments-sheet-metal-design-solidworks-1848"
+    },
+    "discovery-bloodhound": {
+        "author": "Guillaume Ross",
+        "date": "Apr 20 2020",
+        "length": 21,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Discovery with BloodHound",
+        "url": "https://www.pluralsight.com/courses/discovery-bloodhound"
     },
     "disintegration-teleportation-reintegration-effects-houdini-2322": {
         "author": "Jeff Wolverton",
@@ -64972,8 +65008,8 @@
     },
     "react-js-getting-started": {
         "author": "Samer Buna",
-        "date": "Feb 25 2019",
-        "length": 241,
+        "date": "Apr 20 2020",
+        "length": 242,
         "level": "Beginner",
         "rating": 2132,
         "title": "React: Getting Started",
