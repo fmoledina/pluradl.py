@@ -1,3 +1,23 @@
+# Docker version of `pluradl.py`
+This is a basic Docker version of [`pluradl.py`](https://github.com/rojter-tech/pluradl.py/blob/master/pluradl.py) using the `python:3.8.2-slim-buster` base image. The main reason for this is to circumvent an undiagnosed HTTP Error 403 experienced on other platforms (see [Issue #12](https://github.com/rojter-tech/pluradl.py/issues/12) on the upstream repo).
+
+Build the container using:
+```bash
+docker build -t pluradl.py:latest .
+```
+
+Run the container using:
+```bash
+docker run -it --rm \
+  --name pluradl.py \
+  -v "$PWD"/courses:/pluradl/courses \
+  -e USERNAME="user@domain.com" \
+  -e PASSWORD="password" \
+  pluradl.py:latest
+```
+
+What follows is from the Upstream README.
+
 # IMPORTANT
 The parameters `SLEEP_INTERVAL`, `SLEEP_OFFSET`, `SLEEP_PLAYLIST` and `RATE_LIMIT` used in the [`pluradl.py`](https://github.com/rojter-tech/pluradl.py/blob/master/pluradl.py) script is important. It means that the program will regulate the time before it downloads the next video within a playlist and the time between playlist download requests. The rate limit regulator sets an upper limit of the download speed to satisfy load balancing issues from the server side.  If you don't use these settings carefully _Pluralsight_ will ban you because you are doing too many requests under a short or prolonged period of time. If you are planning to run download requests 24/7 you problaby will have to modify theese settings by yourself.
 
