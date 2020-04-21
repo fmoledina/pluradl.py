@@ -1300,7 +1300,7 @@
         "date": "Oct 31 2013",
         "length": 265,
         "level": "Intermediate",
-        "rating": 506,
+        "rating": 507,
         "title": "Advanced SQL Queries in Oracle and SQL Server",
         "url": "https://www.pluralsight.com/courses/adv-sql-queries-oracle-sql-server"
     },
@@ -1345,7 +1345,7 @@
         "date": "Dec 16 2019",
         "length": 74,
         "level": "Advanced",
-        "rating": 18,
+        "rating": 19,
         "title": "Advanced Branching and Looping in GO",
         "url": "https://www.pluralsight.com/courses/advanced-branching-looping-go"
     },
@@ -1525,7 +1525,7 @@
         "date": "Apr 10 2015",
         "length": 415,
         "level": "Advanced",
-        "rating": 2214,
+        "rating": 2215,
         "title": "Advanced JavaScript",
         "url": "https://www.pluralsight.com/courses/advanced-javascript"
     },
@@ -1597,7 +1597,7 @@
         "date": "Jan 12 2017",
         "length": 345,
         "level": "Intermediate",
-        "rating": 19,
+        "rating": 20,
         "title": "LFCE: Advanced Network and System Administration",
         "url": "https://www.pluralsight.com/courses/advanced-network-system-administration-lfce"
     },
@@ -1669,7 +1669,7 @@
         "date": "Mar 10 2015",
         "length": 169,
         "level": "Advanced",
-        "rating": "",
+        "rating": 11,
         "title": "Advanced Rigid Body Dynamics Using Proxy Objects in Houdini",
         "url": "https://www.pluralsight.com/courses/advanced-rigid-body-dynamics-proxy-objects-2003"
     },
@@ -1948,7 +1948,7 @@
         "date": "Mar 13 2019",
         "length": 358,
         "level": "Beginner",
-        "rating": 28,
+        "rating": 29,
         "title": "After Effects CC Fundamentals",
         "url": "https://www.pluralsight.com/courses/after-effects-cc-2019-fundamentals"
     },
@@ -2083,7 +2083,7 @@
         "date": "Sep 23 2016",
         "length": 204,
         "level": "Advanced",
-        "rating": 15,
+        "rating": 16,
         "title": "After Effects CC Rotoscoping",
         "url": "https://www.pluralsight.com/courses/after-effects-cc-rotoscoping"
     },
@@ -2200,7 +2200,7 @@
         "date": "Jan 6 2016",
         "length": 105,
         "level": "Beginner",
-        "rating": 261,
+        "rating": 262,
         "title": "Agile for One",
         "url": "https://www.pluralsight.com/courses/agile-for-one"
     },
@@ -2299,7 +2299,7 @@
         "date": "Feb 11 2020",
         "length": 40,
         "level": "Beginner",
-        "rating": 33,
+        "rating": 34,
         "title": "AI: Executive Briefing",
         "url": "https://www.pluralsight.com/courses/ai-executive-briefing"
     },
@@ -2893,7 +2893,7 @@
         "date": "Aug 19 2019",
         "length": 255,
         "level": "Beginner",
-        "rating": 188,
+        "rating": 190,
         "title": "Understanding Android Application Basics",
         "url": "https://www.pluralsight.com/courses/android-application-basics-understanding"
     },
@@ -2902,7 +2902,7 @@
         "date": "Jun 7 2018",
         "length": 255,
         "level": "Beginner",
-        "rating": 69,
+        "rating": 70,
         "title": "Android Apps with Kotlin: Build Your First App",
         "url": "https://www.pluralsight.com/courses/android-apps-kotlin-build-first-app"
     },
@@ -2992,7 +2992,7 @@
         "date": "May 8 2019",
         "length": 50,
         "level": "Intermediate",
-        "rating": 11,
+        "rating": 12,
         "title": "Android: Getting Started with Dagger2",
         "url": "https://www.pluralsight.com/courses/android-dagger-2-getting-started"
     },
@@ -3001,7 +3001,7 @@
         "date": "Oct 6 2015",
         "length": 98,
         "level": "Beginner",
-        "rating": 60,
+        "rating": 61,
         "title": "Android Fundamentals: Data Binding",
         "url": "https://www.pluralsight.com/courses/android-data-binding"
     },
@@ -3037,7 +3037,7 @@
         "date": "Mar 5 2018",
         "length": 233,
         "level": "Beginner",
-        "rating": 31,
+        "rating": 32,
         "title": "Switch to Kotlin from Java for Android Development",
         "url": "https://www.pluralsight.com/courses/android-development-kotlin-from-java"
     },
@@ -3658,7 +3658,7 @@
         "date": "Aug 14 2019",
         "length": 341,
         "level": "Beginner",
-        "rating": 3819,
+        "rating": 3823,
         "title": "Angular: Getting Started",
         "url": "https://www.pluralsight.com/courses/angular-2-getting-started-update"
     },
@@ -3667,7 +3667,7 @@
         "date": "Sep 5 2019",
         "length": 232,
         "level": "Intermediate",
-        "rating": 573,
+        "rating": 574,
         "title": "Angular Reactive Forms",
         "url": "https://www.pluralsight.com/courses/angular-2-reactive-forms"
     },
@@ -4207,7 +4207,7 @@
         "date": "Feb 1 2019",
         "length": 575,
         "level": "Intermediate",
-        "rating": 808,
+        "rating": 809,
         "title": "Angular Fundamentals",
         "url": "https://www.pluralsight.com/courses/angular-fundamentals"
     },
@@ -4243,7 +4243,7 @@
         "date": "Jun 25 2018",
         "length": 244,
         "level": "Beginner",
-        "rating": 291,
+        "rating": 292,
         "title": "Angular NgRx: Getting Started",
         "url": "https://www.pluralsight.com/courses/angular-ngrx-getting-started"
     },
@@ -4369,7 +4369,7 @@
         "date": "Jun 6 2014",
         "length": 178,
         "level": "Beginner",
-        "rating": 11829,
+        "rating": 11831,
         "title": "AngularJS: Get Started",
         "url": "https://www.pluralsight.com/courses/angularjs-get-started"
     },
@@ -4423,7 +4423,7 @@
         "date": "Feb 16 2015",
         "length": 239,
         "level": "Intermediate",
-        "rating": 593,
+        "rating": 594,
         "title": "An AngularJS Playbook",
         "url": "https://www.pluralsight.com/courses/angularjs-playbook"
     },
@@ -5269,7 +5269,7 @@
         "date": "Feb 19 2015",
         "length": 284,
         "level": "Beginner",
-        "rating": 191,
+        "rating": 192,
         "title": "Introduction to Integration With Apache Camel",
         "url": "https://www.pluralsight.com/courses/apache-camel-intro-integration"
     },
@@ -5386,7 +5386,7 @@
         "date": "Nov 18 2019",
         "length": 143,
         "level": "Beginner",
-        "rating": 482,
+        "rating": 483,
         "title": "Apex Academy: Absolute Beginner's Guide to Coding in Salesforce",
         "url": "https://www.pluralsight.com/courses/apex-absolute-beginner-guide-coding-salesforce"
     },
@@ -5773,7 +5773,7 @@
         "date": "Mar 10 2020",
         "length": 122,
         "level": "Intermediate",
-        "rating": "",
+        "rating": 11,
         "title": "Architecting with Google Kubernetes Engine - Foundations",
         "url": "https://www.pluralsight.com/courses/architecting-google-kubernetes-engine-foundations"
     },
@@ -6043,7 +6043,7 @@
         "date": "Dec 13 2019",
         "length": 74,
         "level": "Beginner",
-        "rating": 49,
+        "rating": 50,
         "title": "Artificial Intelligence: The Big Picture of AI",
         "url": "https://www.pluralsight.com/courses/artificial-intelligence-big-picture"
     },
@@ -6277,7 +6277,7 @@
         "date": "Oct 10 2019",
         "length": 302,
         "level": "Beginner",
-        "rating": 103,
+        "rating": 104,
         "title": "Building a RESTful API with ASP.NET Core 3",
         "url": "https://www.pluralsight.com/courses/asp-dot-net-core-3-restful-api-building"
     },
@@ -6286,7 +6286,7 @@
         "date": "Oct 25 2019",
         "length": 66,
         "level": "Intermediate",
-        "rating": 39,
+        "rating": 40,
         "title": "ASP.NET Core Health Checks",
         "url": "https://www.pluralsight.com/courses/asp-dot-net-core-health-checks"
     },
@@ -6394,7 +6394,7 @@
         "date": "Aug 29 2019",
         "length": 345,
         "level": "Beginner",
-        "rating": 101,
+        "rating": 103,
         "title": "ASP.NET MVC 5 Fundamentals",
         "url": "https://www.pluralsight.com/courses/asp-net-mvc5-web-apps"
     },
@@ -6538,7 +6538,7 @@
         "date": "Sep 18 2017",
         "length": 398,
         "level": "Intermediate",
-        "rating": 91,
+        "rating": 92,
         "title": "Building an Enterprise Application with ASP.NET Core MVC",
         "url": "https://www.pluralsight.com/courses/aspdotnet-core-mvc-enterprise-application"
     },
@@ -6556,7 +6556,7 @@
         "date": "May 22 2018",
         "length": 199,
         "level": "Intermediate",
-        "rating": 91,
+        "rating": 92,
         "title": "Building a Website with React and ASP.NET Core",
         "url": "https://www.pluralsight.com/courses/aspdotnet-core-react-building-website"
     },
@@ -6772,7 +6772,7 @@
         "date": "Jan 23 2019",
         "length": 345,
         "level": "Beginner",
-        "rating": 320,
+        "rating": 321,
         "title": "ASP.NET Core Fundamentals",
         "url": "https://www.pluralsight.com/courses/aspnet-core-fundamentals"
     },
@@ -6853,7 +6853,7 @@
         "date": "Oct 7 2019",
         "length": 593,
         "level": "Beginner",
-        "rating": 526,
+        "rating": 527,
         "title": "Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular",
         "url": "https://www.pluralsight.com/courses/aspnetcore-mvc-efcore-bootstrap-angular-web"
     },
@@ -6979,7 +6979,7 @@
         "date": "Jul 2 2016",
         "length": 125,
         "level": "Intermediate",
-        "rating": 170,
+        "rating": 171,
         "title": "Reasoning About Asynchronous JavaScript",
         "url": "https://www.pluralsight.com/courses/asynchronous-javascript-reasoning"
     },
@@ -7384,7 +7384,7 @@
         "date": "Feb 5 2019",
         "length": 98,
         "level": "Intermediate",
-        "rating": 79,
+        "rating": 80,
         "title": "Automated Tests in Java with Fluent Interface Using WebDriver Selenium",
         "url": "https://www.pluralsight.com/courses/automated-tests-java-fluent-interface-webdriver-selenium"
     },
@@ -7402,7 +7402,7 @@
         "date": "Sep 22 2017",
         "length": 194,
         "level": "Intermediate",
-        "rating": 108,
+        "rating": 109,
         "title": "Automated Web Testing with Selenium and WebDriver Using Java",
         "url": "https://www.pluralsight.com/courses/automated-web-testing-selenium-webdriver-java"
     },
@@ -7465,7 +7465,7 @@
         "date": "Mar 20 2020",
         "length": 121,
         "level": "Intermediate",
-        "rating": "",
+        "rating": 11,
         "title": "Automating Jenkins with Groovy",
         "url": "https://www.pluralsight.com/courses/automating-jenkins-groovy"
     },
@@ -7474,7 +7474,7 @@
         "date": "Mar 27 2019",
         "length": 193,
         "level": "Intermediate",
-        "rating": 32,
+        "rating": 34,
         "title": "Automating Networks with Ansible the Right Way",
         "url": "https://www.pluralsight.com/courses/automating-networks-ansible-right-way"
     },
@@ -7519,7 +7519,7 @@
         "date": "Mar 26 2018",
         "length": 175,
         "level": "Beginner",
-        "rating": 37,
+        "rating": 38,
         "title": "Automation with Windows PowerShell Scripts",
         "url": "https://www.pluralsight.com/courses/automation-powershell-scripts"
     },
@@ -7672,7 +7672,7 @@
         "date": "May 16 2018",
         "length": 214,
         "level": "Intermediate",
-        "rating": 71,
+        "rating": 72,
         "title": "Architecting for Reliability on AWS",
         "url": "https://www.pluralsight.com/courses/aws-architecting-reliability"
     },
@@ -7807,7 +7807,7 @@
         "date": "Jun 27 2019",
         "length": 115,
         "level": "Intermediate",
-        "rating": 13,
+        "rating": 14,
         "title": "Monitoring AWS Cloud Security",
         "url": "https://www.pluralsight.com/courses/aws-cloud-security-monitoring"
     },
@@ -7915,7 +7915,7 @@
         "date": "Sep 20 2019",
         "length": 246,
         "level": "Beginner",
-        "rating": 286,
+        "rating": 288,
         "title": "AWS Developer: Getting Started",
         "url": "https://www.pluralsight.com/courses/aws-developer-getting-started"
     },
@@ -7951,7 +7951,7 @@
         "date": "Feb 12 2020",
         "length": 95,
         "level": "Intermediate",
-        "rating": 29,
+        "rating": 30,
         "title": "AWS Developer: Serverless Architecture and Monitoring",
         "url": "https://www.pluralsight.com/courses/aws-developer-serverless-architecture-monitoring"
     },
@@ -8023,7 +8023,7 @@
         "date": "Feb 14 2019",
         "length": 70,
         "level": "Beginner",
-        "rating": 16,
+        "rating": 17,
         "title": "Implementing AWS EC2 Auto Scaling",
         "url": "https://www.pluralsight.com/courses/aws-ec2-auto-scaling-implementing"
     },
@@ -8176,7 +8176,7 @@
         "date": "Jun 4 2019",
         "length": 68,
         "level": "Beginner",
-        "rating": 18,
+        "rating": 19,
         "title": "Managing Docker Container on AWS with the GUI",
         "url": "https://www.pluralsight.com/courses/aws-managing-docker-containers"
     },
@@ -8212,7 +8212,7 @@
         "date": "Mar 8 2019",
         "length": 46,
         "level": "Beginner",
-        "rating": 39,
+        "rating": 40,
         "title": "AWS Network Design: Getting Started",
         "url": "https://www.pluralsight.com/courses/aws-network-design-getting-started"
     },
@@ -8239,7 +8239,7 @@
         "date": "May 18 2018",
         "length": 250,
         "level": "Intermediate",
-        "rating": 29,
+        "rating": 30,
         "title": "AWS Networking Deep Dive: Route 53 DNS",
         "url": "https://www.pluralsight.com/courses/aws-networking-deep-dive-route-53-dns"
     },
@@ -8293,7 +8293,7 @@
         "date": "May 21 2019",
         "length": 211,
         "level": "Intermediate",
-        "rating": 12,
+        "rating": 13,
         "title": "Managing AWS Operations",
         "url": "https://www.pluralsight.com/courses/aws-operations-managing"
     },
@@ -8338,7 +8338,7 @@
         "date": "Jul 22 2019",
         "length": 160,
         "level": "Advanced",
-        "rating": 13,
+        "rating": 14,
         "title": "Build, Train, and Deploy Machine Learning Models with AWS SageMaker",
         "url": "https://www.pluralsight.com/courses/aws-sagemaker-machine-learning-models"
     },
@@ -8572,7 +8572,7 @@
         "date": "May 23 2017",
         "length": 191,
         "level": "Intermediate",
-        "rating": 96,
+        "rating": 97,
         "title": "Microsoft Azure Architecture - Getting Started",
         "url": "https://www.pluralsight.com/courses/azure-architecture-getting-started"
     },
@@ -8752,7 +8752,7 @@
         "date": "Jun 21 2019",
         "length": 121,
         "level": "Intermediate",
-        "rating": 24,
+        "rating": 25,
         "title": "Continuous Delivery and DevOps with Azure DevOps: Release Pipelines",
         "url": "https://www.pluralsight.com/courses/azure-devops-continuous-delivery-release-pipelines"
     },
@@ -8824,7 +8824,7 @@
         "date": "Feb 22 2018",
         "length": 297,
         "level": "Beginner",
-        "rating": 68,
+        "rating": 69,
         "title": "Azure Event Hubs for .NET Developers: Fundamentals",
         "url": "https://www.pluralsight.com/courses/azure-event-hubs-dotnet-developers-fundamentals"
     },
@@ -8842,7 +8842,7 @@
         "date": "Apr 25 2019",
         "length": 220,
         "level": "Intermediate",
-        "rating": 245,
+        "rating": 246,
         "title": "Azure Functions Fundamentals",
         "url": "https://www.pluralsight.com/courses/azure-functions-fundamentals"
     },
@@ -9355,7 +9355,7 @@
         "date": "Dec 23 2019",
         "length": 94,
         "level": "Beginner",
-        "rating": 543,
+        "rating": 544,
         "title": "Becoming a Better Listener",
         "url": "https://www.pluralsight.com/courses/becoming-better-listener"
     },
@@ -11245,7 +11245,7 @@
         "date": "Jun 20 2018",
         "length": 245,
         "level": "Intermediate",
-        "rating": 159,
+        "rating": 161,
         "title": "Bootstrap 4 for the Developer",
         "url": "https://www.pluralsight.com/courses/bootstrap-4-developer"
     },
@@ -11263,7 +11263,7 @@
         "date": "Feb 5 2013",
         "length": 129,
         "level": "Intermediate",
-        "rating": 3226,
+        "rating": 3227,
         "title": "Introduction to Bootstrap",
         "url": "https://www.pluralsight.com/courses/bootstrap-introduction"
     },
@@ -11929,7 +11929,7 @@
         "date": "Jan 9 2019",
         "length": 151,
         "level": "Beginner",
-        "rating": 184,
+        "rating": 186,
         "title": "Building an API with ASP.NET Core",
         "url": "https://www.pluralsight.com/courses/building-api-aspdotnet-core"
     },
@@ -12001,7 +12001,7 @@
         "date": "Sep 20 2019",
         "length": 258,
         "level": "Beginner",
-        "rating": 85,
+        "rating": 86,
         "title": "Building Web Applications with ASP.NET Core MVC",
         "url": "https://www.pluralsight.com/courses/building-aspdotnet-core-mvc-web-applications"
     },
@@ -12010,7 +12010,7 @@
         "date": "Mar 19 2020",
         "length": 136,
         "level": "Intermediate",
-        "rating": 47,
+        "rating": 49,
         "title": "Building ASP.NET Core Hosted Services and .NET Core Worker Services",
         "url": "https://www.pluralsight.com/courses/building-aspnet-core-hosted-services-net-core-worker-services"
     },
@@ -12100,7 +12100,7 @@
         "date": "Jun 28 2019",
         "length": 153,
         "level": "Beginner",
-        "rating": 14,
+        "rating": 15,
         "title": "Building Classification Models with scikit-learn",
         "url": "https://www.pluralsight.com/courses/building-classification-models-scikit-learn"
     },
@@ -12199,7 +12199,7 @@
         "date": "Dec 6 2019",
         "length": 218,
         "level": "Intermediate",
-        "rating": 13,
+        "rating": 14,
         "title": "Building Desktop Apps with Ionic and Electron",
         "url": "https://www.pluralsight.com/courses/building-cross-platform-apps-ionic-electron"
     },
@@ -12406,7 +12406,7 @@
         "date": "May 2 2019",
         "length": 127,
         "level": "Beginner",
-        "rating": 29,
+        "rating": 30,
         "title": "Building Your First scikit-learn Solution",
         "url": "https://www.pluralsight.com/courses/building-first-scikit-learn-solution"
     },
@@ -12541,7 +12541,7 @@
         "date": "Apr 16 2018",
         "length": 80,
         "level": "Intermediate",
-        "rating": 32,
+        "rating": 34,
         "title": "Building an IT Strategic Plan",
         "url": "https://www.pluralsight.com/courses/building-it-strategic-plan"
     },
@@ -12622,7 +12622,7 @@
         "date": "Dec 9 2019",
         "length": 161,
         "level": "Beginner",
-        "rating": 34,
+        "rating": 35,
         "title": "Building Your First Machine Learning Solution",
         "url": "https://www.pluralsight.com/courses/building-machine-learning-solution"
     },
@@ -12640,7 +12640,7 @@
         "date": "Dec 18 2019",
         "length": 166,
         "level": "Intermediate",
-        "rating": 30,
+        "rating": 32,
         "title": "Building Microservices",
         "url": "https://www.pluralsight.com/courses/building-microservices"
     },
@@ -12829,7 +12829,7 @@
         "date": "Dec 13 2019",
         "length": 86,
         "level": "Intermediate",
-        "rating": 13,
+        "rating": 14,
         "title": "Building Reactive Microservices",
         "url": "https://www.pluralsight.com/courses/building-reactive-microservices"
     },
@@ -13387,7 +13387,7 @@
         "date": "Dec 22 2015",
         "length": 178,
         "level": "Beginner",
-        "rating": 225,
+        "rating": 226,
         "title": "Introduction to Business Analysis & Needs Assessment",
         "url": "https://www.pluralsight.com/courses/business-analysis-needs-assessment-introduction"
     },
@@ -13531,7 +13531,7 @@
         "date": "Feb 20 2014",
         "length": 216,
         "level": "Beginner",
-        "rating": 389,
+        "rating": 390,
         "title": "Business Dashboard Fundamentals",
         "url": "https://www.pluralsight.com/courses/business-dashboard-fundamentals"
     },
@@ -13549,7 +13549,7 @@
         "date": "Jun 5 2015",
         "length": 114,
         "level": "Beginner",
-        "rating": 255,
+        "rating": 256,
         "title": "Introduction to Business Information Technology",
         "url": "https://www.pluralsight.com/courses/business-information-technology-introduction"
     },
@@ -13621,7 +13621,7 @@
         "date": "Oct 19 2016",
         "length": 424,
         "level": "Intermediate",
-        "rating": 796,
+        "rating": 798,
         "title": "Making Your C# Code More Object-oriented",
         "url": "https://www.pluralsight.com/courses/c-sharp-code-more-object-oriented"
     },
@@ -13630,7 +13630,7 @@
         "date": "Sep 24 2019",
         "length": 26,
         "level": "Beginner",
-        "rating": 48,
+        "rating": 50,
         "title": "C# Design Patterns: Command",
         "url": "https://www.pluralsight.com/courses/c-sharp-command-pattern"
     },
@@ -13675,7 +13675,7 @@
         "date": "Jan 2 2020",
         "length": 32,
         "level": "Beginner",
-        "rating": 19,
+        "rating": 20,
         "title": "C# Design Patterns: Decorator",
         "url": "https://www.pluralsight.com/courses/c-sharp-design-patterns-decorator"
     },
@@ -13684,7 +13684,7 @@
         "date": "Dec 17 2019",
         "length": 37,
         "level": "Advanced",
-        "rating": 28,
+        "rating": 30,
         "title": "C# Design Patterns: Mediator",
         "url": "https://www.pluralsight.com/courses/c-sharp-design-patterns-mediator"
     },
@@ -13711,7 +13711,7 @@
         "date": "Nov 9 2019",
         "length": 43,
         "level": "Intermediate",
-        "rating": 44,
+        "rating": 45,
         "title": "C# Design Patterns: State",
         "url": "https://www.pluralsight.com/courses/c-sharp-design-patterns-state"
     },
@@ -13747,7 +13747,7 @@
         "date": "Oct 1 2019",
         "length": 86,
         "level": "Beginner",
-        "rating": 43,
+        "rating": 45,
         "title": "C# Extension Methods",
         "url": "https://www.pluralsight.com/courses/c-sharp-extension-methods"
     },
@@ -13756,7 +13756,7 @@
         "date": "Dec 13 2019",
         "length": 247,
         "level": "Intermediate",
-        "rating": 26,
+        "rating": 28,
         "title": "C# Tips and Traps",
         "url": "https://www.pluralsight.com/courses/c-sharp-tips-traps"
     },
@@ -16114,7 +16114,7 @@
         "date": "Jan 3 2020",
         "length": 47,
         "level": "Beginner",
-        "rating": 38,
+        "rating": 39,
         "title": "Cloud: Executive Briefing",
         "url": "https://www.pluralsight.com/courses/cloud-executive-briefing"
     },
@@ -16204,7 +16204,7 @@
         "date": "Jun 29 2019",
         "length": 110,
         "level": "Intermediate",
-        "rating": 11,
+        "rating": 12,
         "title": "Delivering Content on AWS with Amazon CloudFront",
         "url": "https://www.pluralsight.com/courses/cloudfront-aws-delivering-content"
     },
@@ -16267,7 +16267,7 @@
         "date": "Jan 12 2017",
         "length": 161,
         "level": "Beginner",
-        "rating": 43,
+        "rating": 44,
         "title": "Getting Started with Mainframe COBOL",
         "url": "https://www.pluralsight.com/courses/cobol-mainframe-getting-started"
     },
@@ -16996,7 +16996,7 @@
         "date": "Feb 7 2020",
         "length": 45,
         "level": "Intermediate",
-        "rating": "",
+        "rating": 11,
         "title": "A .NET Data Access Layer You're Proud of: CodeMash",
         "url": "https://www.pluralsight.com/courses/codemash-session-26"
     },
@@ -17689,7 +17689,7 @@
         "date": "Sep 10 2019",
         "length": 189,
         "level": "Beginner",
-        "rating": 36,
+        "rating": 38,
         "title": "Combining and Filtering Data with T-SQL",
         "url": "https://www.pluralsight.com/courses/combining-filtering-data-tsql"
     },
@@ -17788,7 +17788,7 @@
         "date": "Feb 6 2017",
         "length": 102,
         "level": "Beginner",
-        "rating": 44,
+        "rating": 45,
         "title": "Avoiding Common Writing Mistakes",
         "url": "https://www.pluralsight.com/courses/common-writing-mistakes-avoiding"
     },
@@ -18337,7 +18337,7 @@
         "date": "Apr 20 2018",
         "length": 326,
         "level": "Beginner",
-        "rating": 292,
+        "rating": 293,
         "title": "Networking Concepts and Protocols",
         "url": "https://www.pluralsight.com/courses/comptia-network-plus-networking-concepts"
     },
@@ -18364,7 +18364,7 @@
         "date": "Oct 24 2017",
         "length": 255,
         "level": "Beginner",
-        "rating": 25,
+        "rating": 26,
         "title": "Architecture and Design for CompTIA Security+",
         "url": "https://www.pluralsight.com/courses/comptia-security-plus-architecture-design"
     },
@@ -18463,7 +18463,7 @@
         "date": "Oct 24 2017",
         "length": 203,
         "level": "Beginner",
-        "rating": 128,
+        "rating": 129,
         "title": "Threats, Attacks, and Vulnerabilities for CompTIA Security+",
         "url": "https://www.pluralsight.com/courses/comptia-security-plus-threats-attacks-vulnerabilities"
     },
@@ -18508,7 +18508,7 @@
         "date": "Jan 14 2019",
         "length": 118,
         "level": "Beginner",
-        "rating": 16,
+        "rating": 17,
         "title": "Computer Fundamentals: Hardware and Network Troubleshooting",
         "url": "https://www.pluralsight.com/courses/computer-fundamentals-hardware-network-troubleshooting"
     },
@@ -18544,7 +18544,7 @@
         "date": "Jan 14 2019",
         "length": 214,
         "level": "Beginner",
-        "rating": 14,
+        "rating": 15,
         "title": "Computer Fundamentals: Operating Systems",
         "url": "https://www.pluralsight.com/courses/computer-fundamentals-operating-systems"
     },
@@ -18742,7 +18742,7 @@
         "date": "Feb 13 2020",
         "length": 91,
         "level": "Intermediate",
-        "rating": 19,
+        "rating": 20,
         "title": "Concurrent Programming with Go",
         "url": "https://www.pluralsight.com/courses/concurrent-programming-go"
     },
@@ -18751,7 +18751,7 @@
         "date": "Jun 13 2016",
         "length": 200,
         "level": "Beginner",
-        "rating": 61,
+        "rating": 62,
         "title": "Conducting Business Analysis & Developing Requirements",
         "url": "https://www.pluralsight.com/courses/conducting-business-analysis-developing-requirements"
     },
@@ -18787,7 +18787,7 @@
         "date": "Apr 10 2020",
         "length": 180,
         "level": "Intermediate",
-        "rating": 12,
+        "rating": 13,
         "title": "Configuring Azure Active Directory for Microsoft Azure Workloads",
         "url": "https://www.pluralsight.com/courses/configuring-aad-microsoft-azure-workloads"
     },
@@ -18904,7 +18904,7 @@
         "date": "Oct 1 2019",
         "length": 271,
         "level": "Intermediate",
-        "rating": 19,
+        "rating": 20,
         "title": "Configuring and Managing SharePoint Online",
         "url": "https://www.pluralsight.com/courses/configuring-managing-sharepoint-online"
     },
@@ -19075,7 +19075,7 @@
         "date": "Dec 6 2019",
         "length": 101,
         "level": "Beginner",
-        "rating": 158,
+        "rating": 159,
         "title": "Conflict Resolution in the Workplace",
         "url": "https://www.pluralsight.com/courses/conflict-resolution-workplace"
     },
@@ -19174,7 +19174,7 @@
         "date": "Sep 5 2019",
         "length": 143,
         "level": "Beginner",
-        "rating": 12,
+        "rating": 13,
         "title": "Consuming Cisco APIs and Understanding Application DevOps",
         "url": "https://www.pluralsight.com/courses/consuming-cisco-apis-understanding-application-devops"
     },
@@ -19498,7 +19498,7 @@
         "date": "Dec 11 2017",
         "length": 153,
         "level": "Intermediate",
-        "rating": 80,
+        "rating": 81,
         "title": "Practical C++14 and C++17 Features",
         "url": "https://www.pluralsight.com/courses/cplusplus-14-practical-features"
     },
@@ -19534,7 +19534,7 @@
         "date": "Mar 6 2018",
         "length": 348,
         "level": "Beginner",
-        "rating": 172,
+        "rating": 173,
         "title": "C++ Fundamentals Including C++ 17",
         "url": "https://www.pluralsight.com/courses/cplusplus-fundamentals-c17"
     },
@@ -19588,7 +19588,7 @@
         "date": "Nov 19 2018",
         "length": 302,
         "level": "Intermediate",
-        "rating": 27,
+        "rating": 28,
         "title": "Beautiful C++: Updating Legacy Code",
         "url": "https://www.pluralsight.com/courses/cpp-updating-legacy-code"
     },
@@ -19912,7 +19912,7 @@
         "date": "Oct 11 2018",
         "length": 262,
         "level": "Intermediate",
-        "rating": 204,
+        "rating": 205,
         "title": "CQRS in Practice",
         "url": "https://www.pluralsight.com/courses/cqrs-in-practice"
     },
@@ -20038,7 +20038,7 @@
         "date": "Mar 25 2020",
         "length": 244,
         "level": "Intermediate",
-        "rating": 16,
+        "rating": 17,
         "title": "Creating Automated Browser Tests with Selenium in C#",
         "url": "https://www.pluralsight.com/courses/creating-automated-browser-tests-selenium-c-sharp"
     },
@@ -20146,7 +20146,7 @@
         "date": "Dec 18 2019",
         "length": 75,
         "level": "Intermediate",
-        "rating": 13,
+        "rating": 14,
         "title": "Creating Custom Data Types with Go",
         "url": "https://www.pluralsight.com/courses/creating-custom-data-types-go"
     },
@@ -20218,7 +20218,7 @@
         "date": "Oct 31 2019",
         "length": 115,
         "level": "Beginner",
-        "rating": 73,
+        "rating": 75,
         "title": "Spring Framework: Creating Your First Spring Boot Application",
         "url": "https://www.pluralsight.com/courses/creating-first-spring-boot-application"
     },
@@ -20884,7 +20884,7 @@
         "date": "Sep 30 2019",
         "length": 108,
         "level": "Intermediate",
-        "rating": 51,
+        "rating": 52,
         "title": "What’s New in C# 8.0 and .NET Core 3.0",
         "url": "https://www.pluralsight.com/courses/csharp-8-dotnet-core-3-whats-new"
     },
@@ -20893,7 +20893,7 @@
         "date": "Sep 5 2019",
         "length": 148,
         "level": "Intermediate",
-        "rating": 26,
+        "rating": 27,
         "title": "ADO.NET Fundamentals in C#",
         "url": "https://www.pluralsight.com/courses/csharp-ado-dotnet-fundamentals"
     },
@@ -20902,7 +20902,7 @@
         "date": "Apr 8 2016",
         "length": 208,
         "level": "Intermediate",
-        "rating": 357,
+        "rating": 358,
         "title": "Applying Functional Principles in C#",
         "url": "https://www.pluralsight.com/courses/csharp-applying-functional-principles"
     },
@@ -20965,7 +20965,7 @@
         "date": "Mar 29 2019",
         "length": 206,
         "level": "Beginner",
-        "rating": 118,
+        "rating": 119,
         "title": "Beginning C# Collections",
         "url": "https://www.pluralsight.com/courses/csharp-collections-beginning"
     },
@@ -20983,7 +20983,7 @@
         "date": "Jan 2 2020",
         "length": 134,
         "level": "Beginner",
-        "rating": 30,
+        "rating": 31,
         "title": "Defensive Coding in C#",
         "url": "https://www.pluralsight.com/courses/csharp-defensive-coding"
     },
@@ -21028,7 +21028,7 @@
         "date": "Apr 26 2013",
         "length": 191,
         "level": "Intermediate",
-        "rating": 2636,
+        "rating": 2637,
         "title": "C# Events, Delegates and Lambdas",
         "url": "https://www.pluralsight.com/courses/csharp-events-delegates"
     },
@@ -21046,7 +21046,7 @@
         "date": "Sep 30 2011",
         "length": 164,
         "level": "Intermediate",
-        "rating": 2020,
+        "rating": 2021,
         "title": "C# Programming Paradigms",
         "url": "https://www.pluralsight.com/courses/csharp-fundamentals-2"
     },
@@ -21055,7 +21055,7 @@
         "date": "Apr 16 2019",
         "length": 365,
         "level": "Beginner",
-        "rating": 384,
+        "rating": 392,
         "title": "C# Fundamentals",
         "url": "https://www.pluralsight.com/courses/csharp-fundamentals-dev"
     },
@@ -21118,7 +21118,7 @@
         "date": "Apr 2 2019",
         "length": 128,
         "level": "Beginner",
-        "rating": 185,
+        "rating": 186,
         "title": "SOLID Principles for C# Developers",
         "url": "https://www.pluralsight.com/courses/csharp-solid-principles"
     },
@@ -21136,7 +21136,7 @@
         "date": "Jan 29 2020",
         "length": 146,
         "level": "Beginner",
-        "rating": 27,
+        "rating": 28,
         "title": "Test Driven Development in C#",
         "url": "https://www.pluralsight.com/courses/csharp-test-driven-development"
     },
@@ -21244,7 +21244,7 @@
         "date": "Oct 26 2014",
         "length": 50,
         "level": "Beginner",
-        "rating": 920,
+        "rating": 921,
         "title": "CSS Positioning",
         "url": "https://www.pluralsight.com/courses/css-positioning-1834"
     },
@@ -21649,7 +21649,7 @@
         "date": "May 30 2019",
         "length": 210,
         "level": "Intermediate",
-        "rating": 28,
+        "rating": 29,
         "title": "D3.js Data Visualization Fundamentals",
         "url": "https://www.pluralsight.com/courses/d3-data-visualization-fundamentals"
     },
@@ -21658,7 +21658,7 @@
         "date": "Nov 29 2018",
         "length": 167,
         "level": "Beginner",
-        "rating": 17,
+        "rating": 18,
         "title": "Getting Started with D3",
         "url": "https://www.pluralsight.com/courses/d3-getting-started"
     },
@@ -21883,7 +21883,7 @@
         "date": "Feb 21 2018",
         "length": 72,
         "level": "Beginner",
-        "rating": 65,
+        "rating": 66,
         "title": "Making Data into Something You Can See",
         "url": "https://www.pluralsight.com/courses/data-you-can-see"
     },
@@ -22036,7 +22036,7 @@
         "date": "Mar 4 2020",
         "length": 218,
         "level": "Intermediate",
-        "rating": 51,
+        "rating": 52,
         "title": "DDD and EF Core: Preserving Encapsulation",
         "url": "https://www.pluralsight.com/courses/ddd-ef-core-preserving-encapsulation"
     },
@@ -22117,7 +22117,7 @@
         "date": "Feb 8 2018",
         "length": 87,
         "level": "Beginner",
-        "rating": 295,
+        "rating": 296,
         "title": "Deep Learning: The Big Picture",
         "url": "https://www.pluralsight.com/courses/deep-learning-big-picture"
     },
@@ -22216,7 +22216,7 @@
         "date": "May 17 2019",
         "length": 122,
         "level": "Intermediate",
-        "rating": 30,
+        "rating": 31,
         "title": "Demystifying the AWS Certified Solutions Architect: Associate Exam",
         "url": "https://www.pluralsight.com/courses/demystifying-aws-certified-solutions-architect-associate-exam"
     },
@@ -22585,7 +22585,7 @@
         "date": "Jan 28 2016",
         "length": 252,
         "level": "Intermediate",
-        "rating": 95,
+        "rating": 96,
         "title": "Design Patterns in C++: Creational",
         "url": "https://www.pluralsight.com/courses/design-patterns-cpp-creational"
     },
@@ -22621,7 +22621,7 @@
         "date": "Sep 16 2019",
         "length": 114,
         "level": "Intermediate",
-        "rating": 571,
+        "rating": 572,
         "title": "Design Patterns in Java: Creational",
         "url": "https://www.pluralsight.com/courses/design-patterns-java-creational"
     },
@@ -22783,7 +22783,7 @@
         "date": "Jan 31 2020",
         "length": 151,
         "level": "Intermediate",
-        "rating": 39,
+        "rating": 40,
         "title": "Designing and Building Enterprise Blazor Applications",
         "url": "https://www.pluralsight.com/courses/designing-building-enterprise-blazor-applications"
     },
@@ -23656,7 +23656,7 @@
         "date": "May 14 2018",
         "length": 290,
         "level": "Beginner",
-        "rating": 551,
+        "rating": 553,
         "title": "Developing with .NET on Microsoft Azure - Getting Started",
         "url": "https://www.pluralsight.com/courses/developing-dotnet-microsoft-azure-getting-started"
     },
@@ -24259,7 +24259,7 @@
         "date": "Jan 23 2019",
         "length": 81,
         "level": "Beginner",
-        "rating": 1232,
+        "rating": 1234,
         "title": "DevOps: The Big Picture",
         "url": "https://www.pluralsight.com/courses/devops-big-picture"
     },
@@ -24655,7 +24655,7 @@
         "date": "Mar 4 2020",
         "length": 154,
         "level": "Beginner",
-        "rating": 31,
+        "rating": 33,
         "title": "Django: Getting Started",
         "url": "https://www.pluralsight.com/courses/django-getting-started"
     },
@@ -24691,7 +24691,7 @@
         "date": "Jan 4 2018",
         "length": 275,
         "level": "Intermediate",
-        "rating": 478,
+        "rating": 479,
         "title": "Docker Deep Dive",
         "url": "https://www.pluralsight.com/courses/docker-deep-dive-update"
     },
@@ -24709,7 +24709,7 @@
         "date": "Aug 1 2016",
         "length": 132,
         "level": "Beginner",
-        "rating": 1039,
+        "rating": 1043,
         "title": "Getting Started with Docker",
         "url": "https://www.pluralsight.com/courses/docker-getting-started"
     },
@@ -24718,7 +24718,7 @@
         "date": "Aug 4 2017",
         "length": 240,
         "level": "Intermediate",
-        "rating": 149,
+        "rating": 150,
         "title": "Docker Images and Containers for ASP.NET Core",
         "url": "https://www.pluralsight.com/courses/docker-images-containers-aspdotnet-core"
     },
@@ -24736,7 +24736,7 @@
         "date": "Feb 13 2019",
         "length": 107,
         "level": "Beginner",
-        "rating": 616,
+        "rating": 624,
         "title": "Docker and Kubernetes: The Big Picture",
         "url": "https://www.pluralsight.com/courses/docker-kubernetes-big-picture"
     },
@@ -24745,7 +24745,7 @@
         "date": "Feb 8 2017",
         "length": 109,
         "level": "Intermediate",
-        "rating": 187,
+        "rating": 188,
         "title": "Docker Networking",
         "url": "https://www.pluralsight.com/courses/docker-networking"
     },
@@ -24763,7 +24763,7 @@
         "date": "Mar 31 2017",
         "length": 370,
         "level": "Beginner",
-        "rating": 166,
+        "rating": 167,
         "title": "Getting Started with Docker Swarm Mode",
         "url": "https://www.pluralsight.com/courses/docker-swarm-mode-getting-started"
     },
@@ -24790,7 +24790,7 @@
         "date": "Jul 20 2018",
         "length": 352,
         "level": "Beginner",
-        "rating": 575,
+        "rating": 577,
         "title": "Docker for Web Developers",
         "url": "https://www.pluralsight.com/courses/docker-web-development"
     },
@@ -24799,7 +24799,7 @@
         "date": "Dec 13 2016",
         "length": 341,
         "level": "Beginner",
-        "rating": 357,
+        "rating": 358,
         "title": "Getting Started with Docker on Windows",
         "url": "https://www.pluralsight.com/courses/docker-windows-getting-started"
     },
@@ -24817,7 +24817,7 @@
         "date": "Jun 25 2014",
         "length": 256,
         "level": "Intermediate",
-        "rating": 1626,
+        "rating": 1630,
         "title": "Domain-Driven Design Fundamentals",
         "url": "https://www.pluralsight.com/courses/domain-driven-design-fundamentals"
     },
@@ -24826,7 +24826,7 @@
         "date": "Sep 16 2019",
         "length": 259,
         "level": "Intermediate",
-        "rating": 511,
+        "rating": 512,
         "title": "Domain-Driven Design in Practice",
         "url": "https://www.pluralsight.com/courses/domain-driven-design-in-practice"
     },
@@ -24934,7 +24934,7 @@
         "date": "Sep 23 2019",
         "length": 130,
         "level": "Intermediate",
-        "rating": 58,
+        "rating": 60,
         "title": "Using Configuration and Options in .NET Core and ASP.NET Core Apps",
         "url": "https://www.pluralsight.com/courses/dotnet-core-aspnet-core-configuration-options"
     },
@@ -25141,7 +25141,7 @@
         "date": "Oct 18 2015",
         "length": 23,
         "level": "Beginner",
-        "rating": 26,
+        "rating": 27,
         "title": "Down and Dirty Tips and Tricks in InDesign",
         "url": "https://www.pluralsight.com/courses/down-dirty-tips-tricks-indesign-2305"
     },
@@ -27616,7 +27616,7 @@
         "date": "Mar 25 2020",
         "length": 61,
         "level": "Beginner",
-        "rating": 427,
+        "rating": 429,
         "title": "Effective Email Communication",
         "url": "https://www.pluralsight.com/courses/effective-email-communication"
     },
@@ -27706,7 +27706,7 @@
         "date": "Jun 16 2017",
         "length": 166,
         "level": "Intermediate",
-        "rating": 182,
+        "rating": 183,
         "title": "Searching and Analyzing Data with Elasticsearch: Getting Started",
         "url": "https://www.pluralsight.com/courses/elasticsearch-analyzing-data"
     },
@@ -27931,7 +27931,7 @@
         "date": "Dec 6 2019",
         "length": 128,
         "level": "Beginner",
-        "rating": 342,
+        "rating": 344,
         "title": "Introduction to Emotional Intelligence",
         "url": "https://www.pluralsight.com/courses/emotional-intelligence-introduction"
     },
@@ -28282,7 +28282,7 @@
         "date": "Mar 11 2020",
         "length": 156,
         "level": "Beginner",
-        "rating": 1418,
+        "rating": 1419,
         "title": "Getting Started with Entity Framework 6",
         "url": "https://www.pluralsight.com/courses/entity-framework-6-getting-started"
     },
@@ -28453,7 +28453,7 @@
         "date": "Mar 1 2018",
         "length": 318,
         "level": "Intermediate",
-        "rating": 84,
+        "rating": 85,
         "title": "ES6: The Right Parts",
         "url": "https://www.pluralsight.com/courses/es6-the-right-parts"
     },
@@ -28705,7 +28705,7 @@
         "date": "Sep 16 2019",
         "length": 207,
         "level": "Beginner",
-        "rating": 259,
+        "rating": 261,
         "title": "Ethical Hacking: Session Hijacking",
         "url": "https://www.pluralsight.com/courses/ethical-hacking-session-hijacking"
     },
@@ -28741,7 +28741,7 @@
         "date": "Sep 28 2018",
         "length": 235,
         "level": "Beginner",
-        "rating": 146,
+        "rating": 147,
         "title": "Ethical Hacking: System Hacking",
         "url": "https://www.pluralsight.com/courses/ethical-hacking-system-hacking"
     },
@@ -30820,7 +30820,7 @@
         "date": "Nov 9 2019",
         "length": 124,
         "level": "Beginner",
-        "rating": 31,
+        "rating": 32,
         "title": "Flask: Getting Started",
         "url": "https://www.pluralsight.com/courses/flask-getting-started"
     },
@@ -30910,7 +30910,7 @@
         "date": "Aug 22 2018",
         "length": 167,
         "level": "Beginner",
-        "rating": 82,
+        "rating": 83,
         "title": "Flutter: Getting Started",
         "url": "https://www.pluralsight.com/courses/flutter-getting-started"
     },
@@ -31180,7 +31180,7 @@
         "date": "Jun 16 2015",
         "length": 108,
         "level": "Beginner",
-        "rating": 218,
+        "rating": 219,
         "title": "Front End Web Development Career Kickstart",
         "url": "https://www.pluralsight.com/courses/front-end-web-development-career-kickstart"
     },
@@ -31477,7 +31477,7 @@
         "date": "Nov 21 2018",
         "length": 72,
         "level": "Beginner",
-        "rating": 100,
+        "rating": 101,
         "title": "Functional Programming: The Big Picture",
         "url": "https://www.pluralsight.com/courses/functional-programming-big-picture"
     },
@@ -31504,7 +31504,7 @@
         "date": "Feb 7 2020",
         "length": 83,
         "level": "Beginner",
-        "rating": 47,
+        "rating": 49,
         "title": "Fundamental Cloud Concepts for AWS",
         "url": "https://www.pluralsight.com/courses/fundamental-cloud-concepts-aws"
     },
@@ -31531,7 +31531,7 @@
         "date": "Jan 19 2016",
         "length": 257,
         "level": "Intermediate",
-        "rating": 18,
+        "rating": 19,
         "title": "Fundamentals for Cisco CICD (210-060)",
         "url": "https://www.pluralsight.com/courses/fundamentals-cicd-210-060"
     },
@@ -31540,7 +31540,7 @@
         "date": "Feb 18 2010",
         "length": 90,
         "level": "Beginner",
-        "rating": 20,
+        "rating": 21,
         "title": "Fundamentals of Color Theory",
         "url": "https://www.pluralsight.com/courses/fundamentals-color-theory-271"
     },
@@ -31594,7 +31594,7 @@
         "date": "Jul 12 2018",
         "length": 50,
         "level": "Beginner",
-        "rating": 20,
+        "rating": 21,
         "title": "Fundamentals of Network Virtualization",
         "url": "https://www.pluralsight.com/courses/fundamentals-network-virtualization"
     },
@@ -31630,7 +31630,7 @@
         "date": "Apr 9 2018",
         "length": 121,
         "level": "Beginner",
-        "rating": 23,
+        "rating": 24,
         "title": "Fundamentals of Server Virtualization",
         "url": "https://www.pluralsight.com/courses/fundamentals-server-virtualization"
     },
@@ -31639,7 +31639,7 @@
         "date": "May 29 2018",
         "length": 76,
         "level": "Beginner",
-        "rating": 15,
+        "rating": 17,
         "title": "Fundamentals of Storage Virtualization",
         "url": "https://www.pluralsight.com/courses/fundamentals-storage-virtualization"
     },
@@ -32701,7 +32701,7 @@
         "date": "Jan 30 2020",
         "length": 80,
         "level": "Beginner",
-        "rating": 13,
+        "rating": 15,
         "title": "Getting Started with Ansible on Windows",
         "url": "https://www.pluralsight.com/courses/getting-started-ansible-windows"
     },
@@ -32809,7 +32809,7 @@
         "date": "Dec 9 2019",
         "length": 169,
         "level": "Beginner",
-        "rating": 89,
+        "rating": 90,
         "title": "Blazor: Getting Started",
         "url": "https://www.pluralsight.com/courses/getting-started-blazor"
     },
@@ -32881,7 +32881,7 @@
         "date": "Jun 12 2019",
         "length": 88,
         "level": "Beginner",
-        "rating": 68,
+        "rating": 69,
         "title": "Dapper: Getting Started",
         "url": "https://www.pluralsight.com/courses/getting-started-dapper"
     },
@@ -32926,7 +32926,7 @@
         "date": "Jan 11 2020",
         "length": 222,
         "level": "Beginner",
-        "rating": 47,
+        "rating": 48,
         "title": "Entity Framework Core: Getting Started",
         "url": "https://www.pluralsight.com/courses/getting-started-entity-framework-core"
     },
@@ -32998,7 +32998,7 @@
         "date": "Mar 1 2019",
         "length": 187,
         "level": "Beginner",
-        "rating": 21,
+        "rating": 22,
         "title": "Getting Started with HashiCorp Vault",
         "url": "https://www.pluralsight.com/courses/getting-started-hashicorp-vault"
     },
@@ -33052,7 +33052,7 @@
         "date": "Jan 26 2019",
         "length": 104,
         "level": "Beginner",
-        "rating": 104,
+        "rating": 105,
         "title": "Getting Started with Linux",
         "url": "https://www.pluralsight.com/courses/getting-started-linux"
     },
@@ -33313,7 +33313,7 @@
         "date": "Feb 13 2020",
         "length": 283,
         "level": "Beginner",
-        "rating": "",
+        "rating": 11,
         "title": "Getting Started with Programming in Java",
         "url": "https://www.pluralsight.com/courses/getting-started-programming-java"
     },
@@ -33349,7 +33349,7 @@
         "date": "Dec 12 2019",
         "length": 246,
         "level": "Beginner",
-        "rating": 150,
+        "rating": 156,
         "title": "Core Python: Getting Started",
         "url": "https://www.pluralsight.com/courses/getting-started-python-core"
     },
@@ -33448,7 +33448,7 @@
         "date": "Feb 27 2018",
         "length": 162,
         "level": "Beginner",
-        "rating": 54,
+        "rating": 55,
         "title": "Spring WebFlux: Getting Started",
         "url": "https://www.pluralsight.com/courses/getting-started-spring-webflux"
     },
@@ -33466,7 +33466,7 @@
         "date": "Oct 2 2019",
         "length": 210,
         "level": "Beginner",
-        "rating": 58,
+        "rating": 60,
         "title": "Terraform - Getting Started",
         "url": "https://www.pluralsight.com/courses/getting-started-terraform"
     },
@@ -33637,7 +33637,7 @@
         "date": "Jan 27 2020",
         "length": 209,
         "level": "Beginner",
-        "rating": 102,
+        "rating": 103,
         "title": "Go: Getting Started",
         "url": "https://www.pluralsight.com/courses/getting-started-with-go"
     },
@@ -33745,7 +33745,7 @@
         "date": "Dec 17 2019",
         "length": 66,
         "level": "Beginner",
-        "rating": 79,
+        "rating": 82,
         "title": "Git: The Big Picture",
         "url": "https://www.pluralsight.com/courses/git-big-picture"
     },
@@ -33754,7 +33754,7 @@
         "date": "May 23 2012",
         "length": 111,
         "level": "Intermediate",
-        "rating": 2329,
+        "rating": 2330,
         "title": "Git Fundamentals",
         "url": "https://www.pluralsight.com/courses/git-fundamentals"
     },
@@ -33781,7 +33781,7 @@
         "date": "Sep 24 2018",
         "length": 256,
         "level": "Beginner",
-        "rating": 95,
+        "rating": 96,
         "title": "GitHub Fundamentals",
         "url": "https://www.pluralsight.com/courses/github-fundamentals"
     },
@@ -33862,7 +33862,7 @@
         "date": "Feb 28 2018",
         "length": 128,
         "level": "Intermediate",
-        "rating": 24,
+        "rating": 25,
         "title": "The Go CLI Playbook",
         "url": "https://www.pluralsight.com/courses/go-cli-playbook"
     },
@@ -34600,7 +34600,7 @@
         "date": "Feb 5 2015",
         "length": 108,
         "level": "Beginner",
-        "rating": 239,
+        "rating": 241,
         "title": "Introduction to Graph Databases, Cypher, and Neo4j",
         "url": "https://www.pluralsight.com/courses/graph-databases-neo4j-introduction"
     },
@@ -34609,7 +34609,7 @@
         "date": "Aug 8 2019",
         "length": 77,
         "level": "Beginner",
-        "rating": 118,
+        "rating": 120,
         "title": "GraphQL: The Big Picture",
         "url": "https://www.pluralsight.com/courses/graphql-big-picture"
     },
@@ -34618,7 +34618,7 @@
         "date": "Aug 19 2016",
         "length": 130,
         "level": "Intermediate",
-        "rating": 164,
+        "rating": 165,
         "title": "Building Scalable APIs with GraphQL",
         "url": "https://www.pluralsight.com/courses/graphql-scalable-apis"
     },
@@ -34843,7 +34843,7 @@
         "date": "Aug 18 2014",
         "length": 162,
         "level": "Intermediate",
-        "rating": 529,
+        "rating": 530,
         "title": "Hacking the User Experience / UX for Developers",
         "url": "https://www.pluralsight.com/courses/hacking-user-experience"
     },
@@ -34942,7 +34942,7 @@
         "date": "Dec 29 2015",
         "length": 233,
         "level": "Intermediate",
-        "rating": 383,
+        "rating": 385,
         "title": "Hands-on Ansible",
         "url": "https://www.pluralsight.com/courses/hands-on-ansible"
     },
@@ -35095,7 +35095,7 @@
         "date": "Dec 5 2018",
         "length": 96,
         "level": "Beginner",
-        "rating": 32,
+        "rating": 33,
         "title": "How to Have Difficult Conversations",
         "url": "https://www.pluralsight.com/courses/have-difficult-conversations"
     },
@@ -35176,7 +35176,7 @@
         "date": "Jan 5 2016",
         "length": 204,
         "level": "Beginner",
-        "rating": 92,
+        "rating": 93,
         "title": "Help Desk Essentials: Customer Interaction",
         "url": "https://www.pluralsight.com/courses/help-desk-essentials-customer-interaction"
     },
@@ -35491,7 +35491,7 @@
         "date": "Sep 16 2019",
         "length": 108,
         "level": "Beginner",
-        "rating": 6930,
+        "rating": 6932,
         "title": "How Git Works",
         "url": "https://www.pluralsight.com/courses/how-git-works"
     },
@@ -35608,7 +35608,7 @@
         "date": "Jun 21 2019",
         "length": 140,
         "level": "Beginner",
-        "rating": 2663,
+        "rating": 2664,
         "title": "HTML Fundamentals",
         "url": "https://www.pluralsight.com/courses/html-fundamentals"
     },
@@ -35698,7 +35698,7 @@
         "date": "Mar 3 2017",
         "length": 227,
         "level": "Beginner",
-        "rating": 700,
+        "rating": 702,
         "title": "HTML5 Fundamentals",
         "url": "https://www.pluralsight.com/courses/html5-fundamentals"
     },
@@ -35788,7 +35788,7 @@
         "date": "Jan 11 2019",
         "length": 200,
         "level": "Intermediate",
-        "rating": 118,
+        "rating": 120,
         "title": "Using HttpClient to Consume APIs in .NET Core",
         "url": "https://www.pluralsight.com/courses/httpclient-consume-apis-dotnet-core"
     },
@@ -36319,7 +36319,7 @@
         "date": "Mar 16 2016",
         "length": 248,
         "level": "Beginner",
-        "rating": 68,
+        "rating": 69,
         "title": "Illustrator CC Building on the Fundamentals",
         "url": "https://www.pluralsight.com/courses/illustrator-cc-building-on-fundamentals"
     },
@@ -36400,7 +36400,7 @@
         "date": "Mar 22 2016",
         "length": 106,
         "level": "Beginner",
-        "rating": 66,
+        "rating": 67,
         "title": "Illustrator CC Pen Tool",
         "url": "https://www.pluralsight.com/courses/illustrator-cc-pentool"
     },
@@ -36751,7 +36751,7 @@
         "date": "Jul 15 2019",
         "length": 188,
         "level": "Intermediate",
-        "rating": 21,
+        "rating": 22,
         "title": "Implementing Design Patterns Using Java 8 Lambda",
         "url": "https://www.pluralsight.com/courses/implementing-design-patterns-java-8-lambda-expression"
     },
@@ -36940,7 +36940,7 @@
         "date": "Apr 19 2019",
         "length": 115,
         "level": "Intermediate",
-        "rating": 57,
+        "rating": 63,
         "title": "Implementing a Test Pyramid Strategy in Java",
         "url": "https://www.pluralsight.com/courses/implementing-test-pyramid-strategy-java"
     },
@@ -37669,7 +37669,7 @@
         "date": "Aug 14 2018",
         "length": 173,
         "level": "Beginner",
-        "rating": 20,
+        "rating": 21,
         "title": "Introduction to Information Security",
         "url": "https://www.pluralsight.com/courses/information-security-introduction"
     },
@@ -39388,7 +39388,7 @@
         "date": "Jul 2 2013",
         "length": 209,
         "level": "Intermediate",
-        "rating": 661,
+        "rating": 662,
         "title": "Introduction to the Bash Shell on Mac OS and Linux",
         "url": "https://www.pluralsight.com/courses/introduction-bash-shell-linux-mac-os"
     },
@@ -39748,7 +39748,7 @@
         "date": "Aug 31 2016",
         "length": 256,
         "level": "Intermediate",
-        "rating": 20,
+        "rating": 21,
         "title": "Introduction to Houdini Pyro FX",
         "url": "https://www.pluralsight.com/courses/introduction-houdini-pyro-2504"
     },
@@ -40135,7 +40135,7 @@
         "date": "Apr 15 2019",
         "length": 263,
         "level": "Intermediate",
-        "rating": 11,
+        "rating": 13,
         "title": "A Comprehensive Introduction to Microsoft Project 2019",
         "url": "https://www.pluralsight.com/courses/introduction-microsoft-project-2019"
     },
@@ -40405,7 +40405,7 @@
         "date": "Mar 25 2020",
         "length": 115,
         "level": "Intermediate",
-        "rating": 17,
+        "rating": 18,
         "title": "Introduction to Networking for Cisco CCNA",
         "url": "https://www.pluralsight.com/courses/introduction-networking-cisco-ccna"
     },
@@ -40567,7 +40567,7 @@
         "date": "May 30 2014",
         "length": 259,
         "level": "Intermediate",
-        "rating": 281,
+        "rating": 282,
         "title": "Introduction to Qt: A C++ Cross Platform Application Framework",
         "url": "https://www.pluralsight.com/courses/introduction-qt-cplusplus-framework"
     },
@@ -40846,7 +40846,7 @@
         "date": "Mar 17 2020",
         "length": 115,
         "level": "Beginner",
-        "rating": 11,
+        "rating": 12,
         "title": "Introduction to Security and Architecture on AWS",
         "url": "https://www.pluralsight.com/courses/introduction-security-architecture-aws"
     },
@@ -41476,7 +41476,7 @@
         "date": "Jan 24 2018",
         "length": 262,
         "level": "Beginner",
-        "rating": 224,
+        "rating": 226,
         "title": "iOS 11 Fundamentals",
         "url": "https://www.pluralsight.com/courses/ios-11-fundamentals"
     },
@@ -41512,7 +41512,7 @@
         "date": "Jun 13 2019",
         "length": 147,
         "level": "Beginner",
-        "rating": 14,
+        "rating": 15,
         "title": "iOS Collection Views: Getting Started",
         "url": "https://www.pluralsight.com/courses/ios-collection-views-getting-started"
     },
@@ -41584,7 +41584,7 @@
         "date": "Aug 20 2019",
         "length": 90,
         "level": "Intermediate",
-        "rating": 14,
+        "rating": 15,
         "title": "iOS Networking with REST APIs",
         "url": "https://www.pluralsight.com/courses/ios-networking-rest-apis"
     },
@@ -41863,7 +41863,7 @@
         "date": "Feb 7 2020",
         "length": 214,
         "level": "Intermediate",
-        "rating": 28,
+        "rating": 30,
         "title": "Managing Apps on Kubernetes with Istio",
         "url": "https://www.pluralsight.com/courses/istio-managing-apps-kubernetes"
     },
@@ -41980,7 +41980,7 @@
         "date": "Mar 18 2019",
         "length": 67,
         "level": "Intermediate",
-        "rating": 29,
+        "rating": 30,
         "title": "What's New in Java 12",
         "url": "https://www.pluralsight.com/courses/java-12-whats-new"
     },
@@ -41989,7 +41989,7 @@
         "date": "Mar 17 2020",
         "length": 68,
         "level": "Intermediate",
-        "rating": 12,
+        "rating": 14,
         "title": "What's New in Java 14",
         "url": "https://www.pluralsight.com/courses/java-14-whats-new"
     },
@@ -42007,7 +42007,7 @@
         "date": "Sep 15 2015",
         "length": 241,
         "level": "Intermediate",
-        "rating": 334,
+        "rating": 336,
         "title": "From Collections to Streams in Java 8 Using Lambda Expressions",
         "url": "https://www.pluralsight.com/courses/java-8-lambda-expressions-collections-streams"
     },
@@ -42079,7 +42079,7 @@
         "date": "Jan 11 2019",
         "length": 134,
         "level": "Intermediate",
-        "rating": 74,
+        "rating": 80,
         "title": "Java: BDD Fundamentals",
         "url": "https://www.pluralsight.com/courses/java-bdd-fundamentals"
     },
@@ -42097,7 +42097,7 @@
         "date": "Oct 14 2019",
         "length": 105,
         "level": "Beginner",
-        "rating": 21,
+        "rating": 22,
         "title": "Java Core Libraries: JDBC",
         "url": "https://www.pluralsight.com/courses/java-core-libraries-jdbc"
     },
@@ -42124,7 +42124,7 @@
         "date": "Aug 12 2016",
         "length": 325,
         "level": "Beginner",
-        "rating": 136,
+        "rating": 137,
         "title": "Java EE 7 Fundamentals",
         "url": "https://www.pluralsight.com/courses/java-ee-7-fundamentals"
     },
@@ -42142,7 +42142,7 @@
         "date": "Mar 18 2020",
         "length": 73,
         "level": "Beginner",
-        "rating": 400,
+        "rating": 402,
         "title": "Java EE: The Big Picture",
         "url": "https://www.pluralsight.com/courses/java-ee-big-picture"
     },
@@ -42214,7 +42214,7 @@
         "date": "Mar 7 2016",
         "length": 242,
         "level": "Beginner",
-        "rating": 292,
+        "rating": 293,
         "title": "Java Fundamentals: Collections",
         "url": "https://www.pluralsight.com/courses/java-fundamentals-collections"
     },
@@ -42241,7 +42241,7 @@
         "date": "May 15 2019",
         "length": 104,
         "level": "Intermediate",
-        "rating": 17,
+        "rating": 18,
         "title": "Java Fundamentals: HttpClient",
         "url": "https://www.pluralsight.com/courses/java-fundamentals-httpclient"
     },
@@ -42259,7 +42259,7 @@
         "date": "Dec 2 2015",
         "length": 462,
         "level": "Beginner",
-        "rating": 1480,
+        "rating": 1482,
         "title": "Java Fundamentals: The Java Language",
         "url": "https://www.pluralsight.com/courses/java-fundamentals-language"
     },
@@ -42502,7 +42502,7 @@
         "date": "Apr 15 2019",
         "length": 144,
         "level": "Intermediate",
-        "rating": 69,
+        "rating": 70,
         "title": "Java: Writing Readable and Maintainable Code",
         "url": "https://www.pluralsight.com/courses/java-writing-readable-maintainable-code"
     },
@@ -42583,7 +42583,7 @@
         "date": "Nov 10 2016",
         "length": 319,
         "level": "Beginner",
-        "rating": 620,
+        "rating": 621,
         "title": "Building a JavaScript Development Environment",
         "url": "https://www.pluralsight.com/courses/javascript-development-environment"
     },
@@ -42637,7 +42637,7 @@
         "date": "Jul 26 2018",
         "length": 180,
         "level": "Intermediate",
-        "rating": 299,
+        "rating": 300,
         "title": "JavaScript Fundamentals",
         "url": "https://www.pluralsight.com/courses/javascript-fundamentals"
     },
@@ -42655,7 +42655,7 @@
         "date": "Dec 31 2019",
         "length": 85,
         "level": "Intermediate",
-        "rating": 21,
+        "rating": 22,
         "title": "Javascript Generators and Iterators",
         "url": "https://www.pluralsight.com/courses/javascript-generators-iterators"
     },
@@ -42664,7 +42664,7 @@
         "date": "Jan 21 2020",
         "length": 236,
         "level": "Beginner",
-        "rating": 724,
+        "rating": 735,
         "title": "JavaScript: Getting Started",
         "url": "https://www.pluralsight.com/courses/javascript-getting-started"
     },
@@ -42736,7 +42736,7 @@
         "date": "Oct 30 2019",
         "length": 108,
         "level": "Advanced",
-        "rating": 44,
+        "rating": 45,
         "title": "JavaScript Objects, Prototypes, and Classes",
         "url": "https://www.pluralsight.com/courses/javascript-objects-prototypes-classes"
     },
@@ -42763,7 +42763,7 @@
         "date": "Oct 26 2018",
         "length": 76,
         "level": "Beginner",
-        "rating": 144,
+        "rating": 145,
         "title": "Hands-on JavaScript Project: JSON",
         "url": "https://www.pluralsight.com/courses/javascript-project-json"
     },
@@ -42781,7 +42781,7 @@
         "date": "Nov 26 2019",
         "length": 81,
         "level": "Intermediate",
-        "rating": 75,
+        "rating": 77,
         "title": "JavaScript Promises and Async Programming",
         "url": "https://www.pluralsight.com/courses/javascript-promises-async-programming"
     },
@@ -42808,7 +42808,7 @@
         "date": "Nov 12 2019",
         "length": 102,
         "level": "Beginner",
-        "rating": 22,
+        "rating": 25,
         "title": "JavaScript Syntax and Operators",
         "url": "https://www.pluralsight.com/courses/javascript-syntax-operators"
     },
@@ -42835,7 +42835,7 @@
         "date": "Aug 19 2019",
         "length": 43,
         "level": "Intermediate",
-        "rating": 20,
+        "rating": 22,
         "title": "JavaScript Variables and Types",
         "url": "https://www.pluralsight.com/courses/javascript-variables-types"
     },
@@ -42907,7 +42907,7 @@
         "date": "Aug 24 2016",
         "length": 216,
         "level": "Beginner",
-        "rating": 387,
+        "rating": 388,
         "title": "Getting Started with Jenkins 2",
         "url": "https://www.pluralsight.com/courses/jenkins-2-getting-started"
     },
@@ -42916,7 +42916,7 @@
         "date": "Jan 26 2018",
         "length": 131,
         "level": "Beginner",
-        "rating": 85,
+        "rating": 86,
         "title": "JIRA Fundamentals",
         "url": "https://www.pluralsight.com/courses/jira-fundamentals-update"
     },
@@ -42925,7 +42925,7 @@
         "date": "Mar 20 2019",
         "length": 157,
         "level": "Beginner",
-        "rating": 52,
+        "rating": 55,
         "title": "Jira: Getting Started",
         "url": "https://www.pluralsight.com/courses/jira-getting-started"
     },
@@ -43186,7 +43186,7 @@
         "date": "Jan 16 2018",
         "length": 115,
         "level": "Beginner",
-        "rating": 14,
+        "rating": 15,
         "title": "Juniper Networks JNCIA-Junos (JN0-102): Networking Fundamentals",
         "url": "https://www.pluralsight.com/courses/juniper-jncia-junos-jn0-102-networking-fundamentals"
     },
@@ -43321,7 +43321,7 @@
         "date": "Nov 8 2018",
         "length": 88,
         "level": "Beginner",
-        "rating": 45,
+        "rating": 46,
         "title": "Getting Started Unit Testing with JUnit 5",
         "url": "https://www.pluralsight.com/courses/junit-5-unit-testing-getting-started"
     },
@@ -43402,7 +43402,7 @@
         "date": "Feb 13 2012",
         "length": 91,
         "level": "Beginner",
-        "rating": 1182,
+        "rating": 1184,
         "title": "Kanban Fundamentals",
         "url": "https://www.pluralsight.com/courses/kanban-fundamentals"
     },
@@ -43636,7 +43636,7 @@
         "date": "Sep 16 2019",
         "length": 274,
         "level": "Beginner",
-        "rating": 92,
+        "rating": 94,
         "title": "Kubernetes for Developers: Core Concepts",
         "url": "https://www.pluralsight.com/courses/kubernetes-developers-core-concepts"
     },
@@ -43789,7 +43789,7 @@
         "date": "Mar 7 2019",
         "length": 276,
         "level": "Beginner",
-        "rating": 20,
+        "rating": 21,
         "title": "Laying the Foundation for Penetration Testing for CompTIA PenTest+",
         "url": "https://www.pluralsight.com/courses/laying-foundation-penetration-testing"
     },
@@ -43852,7 +43852,7 @@
         "date": "Jun 7 2013",
         "length": 323,
         "level": "Intermediate",
-        "rating": 163,
+        "rating": 164,
         "title": "UX Engineering Process",
         "url": "https://www.pluralsight.com/courses/lean-front-end-engineering"
     },
@@ -43942,7 +43942,7 @@
         "date": "Jul 22 2013",
         "length": 417,
         "level": "Beginner",
-        "rating": 848,
+        "rating": 850,
         "title": "Learn How to Program with C++",
         "url": "https://www.pluralsight.com/courses/learn-programming-cplusplus"
     },
@@ -44023,7 +44023,7 @@
         "date": "Jan 1 2014",
         "length": 95,
         "level": "Beginner",
-        "rating": 1600,
+        "rating": 1601,
         "title": "Learning Technology in the Information Age",
         "url": "https://www.pluralsight.com/courses/learning-technology-information-age"
     },
@@ -44608,7 +44608,7 @@
         "date": "Sep 29 2017",
         "length": 130,
         "level": "Intermediate",
-        "rating": 14,
+        "rating": 15,
         "title": "LFCE: Linux Service Management - HTTP Services",
         "url": "https://www.pluralsight.com/courses/linux-http-services-administration"
     },
@@ -45049,7 +45049,7 @@
         "date": "Jun 25 2019",
         "length": 48,
         "level": "Beginner",
-        "rating": 15,
+        "rating": 16,
         "title": "Loading Data into Excel",
         "url": "https://www.pluralsight.com/courses/loading-data-excel"
     },
@@ -45076,7 +45076,7 @@
         "date": "Oct 31 2013",
         "length": 147,
         "level": "Intermediate",
-        "rating": 211,
+        "rating": 212,
         "title": "Logical and Physical Modeling for Analytical Applications",
         "url": "https://www.pluralsight.com/courses/logical-physical-modeling-analytical-applications"
     },
@@ -45319,7 +45319,7 @@
         "date": "May 12 2016",
         "length": 103,
         "level": "Intermediate",
-        "rating": 18,
+        "rating": 19,
         "title": "macOS X Support: Installation and Configuration",
         "url": "https://www.pluralsight.com/courses/mac-osx-support-installation-configuration"
     },
@@ -45382,7 +45382,7 @@
         "date": "Jul 11 2019",
         "length": 39,
         "level": "Beginner",
-        "rating": 169,
+        "rating": 170,
         "title": "Machine Learning: Executive Briefing",
         "url": "https://www.pluralsight.com/courses/machine-learning-executive-briefing"
     },
@@ -45490,7 +45490,7 @@
         "date": "Jan 24 2018",
         "length": 234,
         "level": "Intermediate",
-        "rating": 146,
+        "rating": 147,
         "title": "Making Your C# Code More Functional",
         "url": "https://www.pluralsight.com/courses/making-functional-csharp"
     },
@@ -45562,7 +45562,7 @@
         "date": "Feb 12 2019",
         "length": 137,
         "level": "Intermediate",
-        "rating": 13,
+        "rating": 14,
         "title": "Malware Analysis: Identifying and Defeating Packing",
         "url": "https://www.pluralsight.com/courses/malware-analysis-identifying-defeating-packing"
     },
@@ -45895,7 +45895,7 @@
         "date": "May 15 2019",
         "length": 189,
         "level": "Intermediate",
-        "rating": 50,
+        "rating": 51,
         "title": "Managing the Kubernetes API Server and Pods",
         "url": "https://www.pluralsight.com/courses/managing-kubernetes-api-server-pods"
     },
@@ -46057,7 +46057,7 @@
         "date": "Feb 2 2019",
         "length": 83,
         "level": "Beginner",
-        "rating": 49,
+        "rating": 51,
         "title": "Managing Python Packages and Virtual Environments",
         "url": "https://www.pluralsight.com/courses/managing-python-packages-virtual-environments"
     },
@@ -46534,7 +46534,7 @@
         "date": "Oct 13 2016",
         "length": 162,
         "level": "Intermediate",
-        "rating": 1313,
+        "rating": 1314,
         "title": "Mastering Git",
         "url": "https://www.pluralsight.com/courses/mastering-git"
     },
@@ -48118,7 +48118,7 @@
         "date": "Jun 16 2016",
         "length": 217,
         "level": "Beginner",
-        "rating": 53,
+        "rating": 54,
         "title": "Introduction to Penetration Testing Using Metasploit",
         "url": "https://www.pluralsight.com/courses/metasploit-penetration-testing-introduction"
     },
@@ -48226,7 +48226,7 @@
         "date": "Mar 14 2018",
         "length": 522,
         "level": "Intermediate",
-        "rating": 123,
+        "rating": 124,
         "title": "Microservices Architectural Design Patterns Playbook",
         "url": "https://www.pluralsight.com/courses/microservices-architectural-design-patterns-playbook"
     },
@@ -48235,7 +48235,7 @@
         "date": "Nov 2 2015",
         "length": 144,
         "level": "Intermediate",
-        "rating": 1191,
+        "rating": 1193,
         "title": "Microservices Architecture",
         "url": "https://www.pluralsight.com/courses/microservices-architecture"
     },
@@ -48262,7 +48262,7 @@
         "date": "Nov 1 2019",
         "length": 133,
         "level": "Beginner",
-        "rating": 83,
+        "rating": 85,
         "title": "Microservices Fundamentals",
         "url": "https://www.pluralsight.com/courses/microservices-fundamentals"
     },
@@ -48289,7 +48289,7 @@
         "date": "Jun 13 2018",
         "length": 82,
         "level": "Intermediate",
-        "rating": 43,
+        "rating": 44,
         "title": "Building Microservices REST APIs Using Spring Data REST",
         "url": "https://www.pluralsight.com/courses/microservices-rest-apis-spring-data"
     },
@@ -48298,7 +48298,7 @@
         "date": "Jul 10 2019",
         "length": 63,
         "level": "Beginner",
-        "rating": 23,
+        "rating": 24,
         "title": "Microsoft 365 Security Concepts",
         "url": "https://www.pluralsight.com/courses/microsoft-365-security-concepts"
     },
@@ -48415,7 +48415,7 @@
         "date": "Jan 3 2020",
         "length": 195,
         "level": "Advanced",
-        "rating": 51,
+        "rating": 52,
         "title": "Designing an API Management Strategy for Microsoft Azure",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-api-management-strategy-designing"
     },
@@ -48460,7 +48460,7 @@
         "date": "Dec 12 2019",
         "length": 45,
         "level": "Intermediate",
-        "rating": 61,
+        "rating": 62,
         "title": "Instrument Application with Azure Monitor Application Insights",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-application-insights-web-application-instrument"
     },
@@ -48910,7 +48910,7 @@
         "date": "Nov 19 2019",
         "length": 253,
         "level": "Intermediate",
-        "rating": 21,
+        "rating": 22,
         "title": "Design a Compute Strategy for Microsoft Azure",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-compute-strategy-design"
     },
@@ -49009,7 +49009,7 @@
         "date": "Feb 26 2020",
         "length": 234,
         "level": "Intermediate",
-        "rating": 65,
+        "rating": 66,
         "title": "Creating and Configuring Microsoft Azure Storage Accounts",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-creating-configuring-storage-accounts"
     },
@@ -49297,7 +49297,7 @@
         "date": "Dec 6 2019",
         "length": 100,
         "level": "Intermediate",
-        "rating": "",
+        "rating": 11,
         "title": "Designing Machine Learning Solutions on Microsoft Azure",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-designing-machine-learning-solutions"
     },
@@ -49549,7 +49549,7 @@
         "date": "Aug 2 2019",
         "length": 136,
         "level": "Intermediate",
-        "rating": 16,
+        "rating": 17,
         "title": "Microsoft Azure Hybrid Identity – Overview",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-hybrid-identity-overview"
     },
@@ -49621,7 +49621,7 @@
         "date": "Nov 8 2019",
         "length": 118,
         "level": "Advanced",
-        "rating": 16,
+        "rating": 17,
         "title": "Microsoft Azure DevOps Engineer: Implement a Secure and Compliant Development Process",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-implement-secure-compliant-development-process"
     },
@@ -49675,7 +49675,7 @@
         "date": "Sep 20 2019",
         "length": 236,
         "level": "Intermediate",
-        "rating": 16,
+        "rating": 17,
         "title": "Implementing Web and Mobile Services on Microsoft Azure",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-implementing-web-mobile-services-update"
     },
@@ -49765,7 +49765,7 @@
         "date": "Sep 19 2019",
         "length": 138,
         "level": "Beginner",
-        "rating": 18,
+        "rating": 19,
         "title": "Microsoft Azure DevOps Engineer: Manage Azure Kubernetes Services Infrastructure",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-kubernetes-infrastructure-manage"
     },
@@ -49810,7 +49810,7 @@
         "date": "Feb 10 2020",
         "length": 178,
         "level": "Intermediate",
-        "rating": 21,
+        "rating": 22,
         "title": "Managing Microsoft Azure Active Directory",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-managing-active-directory"
     },
@@ -49900,7 +49900,7 @@
         "date": "Jul 18 2019",
         "length": 65,
         "level": "Intermediate",
-        "rating": 29,
+        "rating": 30,
         "title": "Microsoft Azure DevOps Engineer: Monitoring Code Quality",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-monitoring-code-quality"
     },
@@ -50044,7 +50044,7 @@
         "date": "Sep 14 2018",
         "length": 53,
         "level": "Advanced",
-        "rating": 46,
+        "rating": 47,
         "title": "Connecting On-premises Networks with Azure Virtual Networks",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-on-premises-networks-virtual-networks-connecting"
     },
@@ -50467,7 +50467,7 @@
         "date": "Nov 13 2018",
         "length": 144,
         "level": "Beginner",
-        "rating": 33,
+        "rating": 34,
         "title": "Microsoft Azure Developer: Choosing a Storage Solution",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-storage-solution-choosing"
     },
@@ -50485,7 +50485,7 @@
         "date": "Dec 13 2018",
         "length": 76,
         "level": "Beginner",
-        "rating": 83,
+        "rating": 84,
         "title": "Analyzing Microsoft Azure Subscription Resource Utilization",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-subscription-resource-utilization-analyzing"
     },
@@ -50539,7 +50539,7 @@
         "date": "Sep 30 2019",
         "length": 159,
         "level": "Beginner",
-        "rating": 45,
+        "rating": 46,
         "title": "Microsoft Azure: The Big Picture",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-the-big-picture"
     },
@@ -50566,7 +50566,7 @@
         "date": "Sep 14 2018",
         "length": 76,
         "level": "Beginner",
-        "rating": 66,
+        "rating": 67,
         "title": "Deploying a Virtual Machine in Microsoft Azure",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-virtual-machine-deploying"
     },
@@ -50629,7 +50629,7 @@
         "date": "Apr 13 2020",
         "length": 65,
         "level": "Intermediate",
-        "rating": 69,
+        "rating": 70,
         "title": "Microsoft Azure Developer: Web Jobs",
         "url": "https://www.pluralsight.com/courses/microsoft-azure-web-jobs"
     },
@@ -50656,7 +50656,7 @@
         "date": "Jun 20 2019",
         "length": 207,
         "level": "Intermediate",
-        "rating": 32,
+        "rating": 33,
         "title": "Building Bots with Microsoft’s Bot Framework: Getting Started",
         "url": "https://www.pluralsight.com/courses/microsoft-bot-framework-building-bots-getting-started-2019"
     },
@@ -52348,7 +52348,7 @@
         "date": "May 4 2017",
         "length": 148,
         "level": "Intermediate",
-        "rating": 88,
+        "rating": 89,
         "title": "Testing JavaScript for Node.js with Mocha",
         "url": "https://www.pluralsight.com/courses/mocha-javascript-testing-nodejs"
     },
@@ -53203,7 +53203,7 @@
         "date": "Nov 2 2018",
         "length": 118,
         "level": "Beginner",
-        "rating": 260,
+        "rating": 266,
         "title": "Modern Java: The Big Picture",
         "url": "https://www.pluralsight.com/courses/modern-java-big-picture"
     },
@@ -53212,7 +53212,7 @@
         "date": "Dec 3 2019",
         "length": 265,
         "level": "Intermediate",
-        "rating": 767,
+        "rating": 768,
         "title": "Modern Software Architecture: Domain Models, CQRS, and Event Sourcing",
         "url": "https://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing"
     },
@@ -55255,7 +55255,7 @@
         "date": "Oct 5 2018",
         "length": 86,
         "level": "Beginner",
-        "rating": 22,
+        "rating": 23,
         "title": "Getting Started with Nmap",
         "url": "https://www.pluralsight.com/courses/nmap-getting-started"
     },
@@ -55309,7 +55309,7 @@
         "date": "Feb 15 2018",
         "length": 199,
         "level": "Intermediate",
-        "rating": 15,
+        "rating": 16,
         "title": "Acceptance Testing in Node.js",
         "url": "https://www.pluralsight.com/courses/nodejs-acceptance-testing"
     },
@@ -55327,7 +55327,7 @@
         "date": "Feb 28 2020",
         "length": 86,
         "level": "Intermediate",
-        "rating": 29,
+        "rating": 30,
         "title": "Async Patterns in Node.js",
         "url": "https://www.pluralsight.com/courses/nodejs-async-patterns"
     },
@@ -55372,7 +55372,7 @@
         "date": "Mar 23 2018",
         "length": 312,
         "level": "Intermediate",
-        "rating": 201,
+        "rating": 202,
         "title": "Building Web Applications with Node.js and Express 4.0 (UPDATE)",
         "url": "https://www.pluralsight.com/courses/nodejs-express-web-applications-update"
     },
@@ -55795,7 +55795,7 @@
         "date": "Sep 14 2018",
         "length": 103,
         "level": "Intermediate",
-        "rating": 122,
+        "rating": 123,
         "title": "Getting Started with OAuth 2.0",
         "url": "https://www.pluralsight.com/courses/oauth-2-getting-started"
     },
@@ -55822,7 +55822,7 @@
         "date": "Jun 26 2013",
         "length": 143,
         "level": "Intermediate",
-        "rating": 1285,
+        "rating": 1286,
         "title": "Introduction to OAuth2, OpenID Connect and JSON Web Tokens (JWT)",
         "url": "https://www.pluralsight.com/courses/oauth2-json-web-tokens-openid-connect-introduction"
     },
@@ -55849,7 +55849,7 @@
         "date": "Aug 26 2019",
         "length": 132,
         "level": "Intermediate",
-        "rating": 22,
+        "rating": 24,
         "title": "Making Your Java Code More Object-oriented",
         "url": "https://www.pluralsight.com/courses/object-oriented-java-code"
     },
@@ -55867,7 +55867,7 @@
         "date": "Jul 22 2015",
         "length": 122,
         "level": "Intermediate",
-        "rating": 162,
+        "rating": 163,
         "title": "Object-oriented PHP: Essential Constructs",
         "url": "https://www.pluralsight.com/courses/object-oriented-php-essential-constructs"
     },
@@ -55885,7 +55885,7 @@
         "date": "Nov 6 2019",
         "length": 200,
         "level": "Intermediate",
-        "rating": 15,
+        "rating": 16,
         "title": "Mastering Object-oriented Programming in Java",
         "url": "https://www.pluralsight.com/courses/object-oriented-programming-java"
     },
@@ -56803,7 +56803,7 @@
         "date": "Aug 12 2014",
         "length": 206,
         "level": "Intermediate",
-        "rating": 57,
+        "rating": 58,
         "title": "Oracle Database 12c Disaster Recovery and Data Movement",
         "url": "https://www.pluralsight.com/courses/oracle-database-12c-disaster-recovery"
     },
@@ -57631,7 +57631,7 @@
         "date": "Jan 5 2017",
         "length": 110,
         "level": "Beginner",
-        "rating": 78,
+        "rating": 79,
         "title": "Payment Card Security, Processing, and the PCI Standards",
         "url": "https://www.pluralsight.com/courses/payment-card-security-processing-pci-standards"
     },
@@ -57658,7 +57658,7 @@
         "date": "May 10 2017",
         "length": 83,
         "level": "Beginner",
-        "rating": 63,
+        "rating": 64,
         "title": "PCI DSS: The Big Picture",
         "url": "https://www.pluralsight.com/courses/pci-dss-big-picture"
     },
@@ -57847,7 +57847,7 @@
         "date": "Jul 30 2019",
         "length": 85,
         "level": "Intermediate",
-        "rating": 16,
+        "rating": 17,
         "title": "Performing Non-Technical Tests for CompTIA PenTest+",
         "url": "https://www.pluralsight.com/courses/performing-nontechnical-tests-comptia-pentest"
     },
@@ -58342,7 +58342,7 @@
         "date": "Apr 8 2016",
         "length": 95,
         "level": "Beginner",
-        "rating": 40,
+        "rating": 41,
         "title": "Mastering Layers in Photoshop CC",
         "url": "https://www.pluralsight.com/courses/photoshop-cc-mastering-layers-2474"
     },
@@ -58360,7 +58360,7 @@
         "date": "Oct 17 2016",
         "length": 129,
         "level": "Beginner",
-        "rating": 30,
+        "rating": 31,
         "title": "Photoshop CC Portrait Retouching",
         "url": "https://www.pluralsight.com/courses/photoshop-cc-portrait-retouching"
     },
@@ -58603,7 +58603,7 @@
         "date": "Feb 11 2019",
         "length": 308,
         "level": "Beginner",
-        "rating": 318,
+        "rating": 319,
         "title": "PHP Fundamentals",
         "url": "https://www.pluralsight.com/courses/php-fundamentals"
     },
@@ -59377,7 +59377,7 @@
         "date": "Jan 19 2018",
         "length": 121,
         "level": "Intermediate",
-        "rating": 37,
+        "rating": 38,
         "title": "Play By Play: Diagramming Salesforce Solutions",
         "url": "https://www.pluralsight.com/courses/play-by-play-diagramming-salesforce-solutions"
     },
@@ -60538,7 +60538,7 @@
         "date": "Aug 1 2016",
         "length": 185,
         "level": "Intermediate",
-        "rating": 25,
+        "rating": 26,
         "title": "PMI-ACP®: Agile Estimation, Metrics, and Risk Management (4 of 11)",
         "url": "https://www.pluralsight.com/courses/pmi-acp-agile-estimation-metrics-risk"
     },
@@ -60601,7 +60601,7 @@
         "date": "Aug 1 2016",
         "length": 160,
         "level": "Intermediate",
-        "rating": 23,
+        "rating": 24,
         "title": "PMI-ACP®: Value-driven Delivery and Adaptive Planning (3 of 11)",
         "url": "https://www.pluralsight.com/courses/pmi-acp-value-driven-delivery-adaptive-planning"
     },
@@ -61024,7 +61024,7 @@
         "date": "Apr 17 2020",
         "length": 157,
         "level": "Beginner",
-        "rating": 105,
+        "rating": 108,
         "title": "Postman Fundamentals",
         "url": "https://www.pluralsight.com/courses/postman-fundamentals"
     },
@@ -61087,7 +61087,7 @@
         "date": "May 6 2019",
         "length": 106,
         "level": "Beginner",
-        "rating": 27,
+        "rating": 28,
         "title": "Power BI Data Import Playbook",
         "url": "https://www.pluralsight.com/courses/power-bi-data-import-playbook"
     },
@@ -61096,7 +61096,7 @@
         "date": "Mar 29 2019",
         "length": 297,
         "level": "Beginner",
-        "rating": 31,
+        "rating": 32,
         "title": "Modeling Data in Power BI",
         "url": "https://www.pluralsight.com/courses/power-bi-data-modeling"
     },
@@ -61105,7 +61105,7 @@
         "date": "Apr 29 2019",
         "length": 122,
         "level": "Intermediate",
-        "rating": 15,
+        "rating": 16,
         "title": "Power BI Data Preparation Playbook",
         "url": "https://www.pluralsight.com/courses/power-bi-data-preparation-playbook"
     },
@@ -61276,7 +61276,7 @@
         "date": "Dec 17 2014",
         "length": 177,
         "level": "Intermediate",
-        "rating": 242,
+        "rating": 243,
         "title": "Windows PowerShell Desired State Configuration Fundamentals",
         "url": "https://www.pluralsight.com/courses/powershell-desired-state-configuration-fundamentals"
     },
@@ -61312,7 +61312,7 @@
         "date": "May 22 2019",
         "length": 183,
         "level": "Beginner",
-        "rating": 651,
+        "rating": 652,
         "title": "PowerShell: Getting Started",
         "url": "https://www.pluralsight.com/courses/powershell-getting-started"
     },
@@ -61906,7 +61906,7 @@
         "date": "Feb 22 2016",
         "length": 237,
         "level": "Beginner",
-        "rating": 93,
+        "rating": 95,
         "title": "Premiere Pro CC Fundamentals",
         "url": "https://www.pluralsight.com/courses/premierepro-cc-fundamentals"
     },
@@ -63562,7 +63562,7 @@
         "date": "Jul 18 2014",
         "length": 442,
         "level": "Intermediate",
-        "rating": 563,
+        "rating": 564,
         "title": "Python – Beyond the Basics",
         "url": "https://www.pluralsight.com/courses/python-beyond-basics"
     },
@@ -63571,7 +63571,7 @@
         "date": "Jan 26 2018",
         "length": 65,
         "level": "Beginner",
-        "rating": 677,
+        "rating": 682,
         "title": "Python: The Big Picture",
         "url": "https://www.pluralsight.com/courses/python-big-picture"
     },
@@ -63607,7 +63607,7 @@
         "date": "Dec 28 2017",
         "length": 385,
         "level": "Beginner",
-        "rating": 202,
+        "rating": 203,
         "title": "Doing Data Science with Python",
         "url": "https://www.pluralsight.com/courses/python-data-science"
     },
@@ -63670,7 +63670,7 @@
         "date": "Aug 2 2017",
         "length": 109,
         "level": "Advanced",
-        "rating": 28,
+        "rating": 29,
         "title": "Functional Programming with Python",
         "url": "https://www.pluralsight.com/courses/python-functional-programming"
     },
@@ -63688,7 +63688,7 @@
         "date": "Apr 27 2017",
         "length": 179,
         "level": "Beginner",
-        "rating": 1352,
+        "rating": 1354,
         "title": "Python: Getting Started",
         "url": "https://www.pluralsight.com/courses/python-getting-started"
     },
@@ -63832,7 +63832,7 @@
         "date": "Jun 1 2018",
         "length": 56,
         "level": "Intermediate",
-        "rating": 36,
+        "rating": 37,
         "title": "What's New in Python 3.7",
         "url": "https://www.pluralsight.com/courses/python-whats-new"
     },
@@ -64012,7 +64012,7 @@
         "date": "Sep 19 2019",
         "length": 127,
         "level": "Beginner",
-        "rating": 69,
+        "rating": 70,
         "title": "Querying Data Using T-SQL",
         "url": "https://www.pluralsight.com/courses/querying-data-using-tsql"
     },
@@ -64660,7 +64660,7 @@
         "date": "Sep 18 2017",
         "length": 119,
         "level": "Beginner",
-        "rating": 19,
+        "rating": 20,
         "title": "Data Management and Preparation Using R",
         "url": "https://www.pluralsight.com/courses/r-data-management-preparation"
     },
@@ -64948,7 +64948,7 @@
         "date": "Nov 21 2017",
         "length": 71,
         "level": "Beginner",
-        "rating": 456,
+        "rating": 459,
         "title": "React: The Big Picture",
         "url": "https://www.pluralsight.com/courses/react-big-picture"
     },
@@ -64975,7 +64975,7 @@
         "date": "Feb 7 2019",
         "length": 193,
         "level": "Advanced",
-        "rating": 77,
+        "rating": 78,
         "title": "Building a Full Stack App with React and Express",
         "url": "https://www.pluralsight.com/courses/react-express-full-stack-app-building"
     },
@@ -64993,7 +64993,7 @@
         "date": "Jun 19 2019",
         "length": 311,
         "level": "Intermediate",
-        "rating": 1363,
+        "rating": 1366,
         "title": "Building Applications with React and Flux",
         "url": "https://www.pluralsight.com/courses/react-flux-building-applications"
     },
@@ -65002,7 +65002,7 @@
         "date": "Jun 21 2018",
         "length": 253,
         "level": "Intermediate",
-        "rating": 271,
+        "rating": 272,
         "title": "React Fundamentals",
         "url": "https://www.pluralsight.com/courses/react-fundamentals-update"
     },
@@ -65011,7 +65011,7 @@
         "date": "Apr 20 2020",
         "length": 242,
         "level": "Beginner",
-        "rating": 2132,
+        "rating": 2136,
         "title": "React: Getting Started",
         "url": "https://www.pluralsight.com/courses/react-js-getting-started"
     },
@@ -65020,7 +65020,7 @@
         "date": "Dec 21 2018",
         "length": 67,
         "level": "Beginner",
-        "rating": 88,
+        "rating": 89,
         "title": "React Native: The Big Picture",
         "url": "https://www.pluralsight.com/courses/react-native-big-picture"
     },
@@ -65038,7 +65038,7 @@
         "date": "Jun 20 2018",
         "length": 109,
         "level": "Beginner",
-        "rating": 76,
+        "rating": 77,
         "title": "React Native: Getting Started",
         "url": "https://www.pluralsight.com/courses/react-native-getting-started"
     },
@@ -65047,7 +65047,7 @@
         "date": "Apr 21 2018",
         "length": 88,
         "level": "Beginner",
-        "rating": 138,
+        "rating": 140,
         "title": "A Practical Start with React",
         "url": "https://www.pluralsight.com/courses/react-practical-start"
     },
@@ -65065,7 +65065,7 @@
         "date": "Mar 12 2019",
         "length": 399,
         "level": "Intermediate",
-        "rating": 1474,
+        "rating": 1476,
         "title": "Building Applications with React and Redux",
         "url": "https://www.pluralsight.com/courses/react-redux-react-router-es6"
     },
@@ -65119,7 +65119,7 @@
         "date": "Jul 21 2017",
         "length": 234,
         "level": "Advanced",
-        "rating": 214,
+        "rating": 215,
         "title": "Advanced React.js",
         "url": "https://www.pluralsight.com/courses/reactjs-advanced"
     },
@@ -65587,7 +65587,7 @@
         "date": "Apr 18 2019",
         "length": 149,
         "level": "Advanced",
-        "rating": "",
+        "rating": 11,
         "title": "Reducing Dimensions in Data with scikit-learn",
         "url": "https://www.pluralsight.com/courses/reducing-dimensions-data-scikit-learn"
     },
@@ -65605,7 +65605,7 @@
         "date": "Aug 21 2017",
         "length": 174,
         "level": "Advanced",
-        "rating": 120,
+        "rating": 121,
         "title": "Redux Saga",
         "url": "https://www.pluralsight.com/courses/redux-saga"
     },
@@ -65614,7 +65614,7 @@
         "date": "Nov 13 2017",
         "length": 216,
         "level": "Intermediate",
-        "rating": 222,
+        "rating": 223,
         "title": "Refactoring from Anemic Domain Model Towards a Rich One",
         "url": "https://www.pluralsight.com/courses/refactoring-anemic-domain-model"
     },
@@ -65623,7 +65623,7 @@
         "date": "Aug 22 2019",
         "length": 137,
         "level": "Intermediate",
-        "rating": 44,
+        "rating": 46,
         "title": "Refactoring for C# Developers",
         "url": "https://www.pluralsight.com/courses/refactoring-csharp-developers"
     },
@@ -66091,7 +66091,7 @@
         "date": "Jun 19 2019",
         "length": 165,
         "level": "Beginner",
-        "rating": 22,
+        "rating": 23,
         "title": "Representing, Processing, and Preparing Data",
         "url": "https://www.pluralsight.com/courses/representing-processing-preparing-data"
     },
@@ -66568,7 +66568,7 @@
         "date": "Aug 29 2018",
         "length": 220,
         "level": "Beginner",
-        "rating": 27,
+        "rating": 30,
         "title": "Getting Started with Reverse Engineering",
         "url": "https://www.pluralsight.com/courses/reverse-engineering-getting-started"
     },
@@ -66802,7 +66802,7 @@
         "date": "Sep 22 2016",
         "length": 217,
         "level": "Beginner",
-        "rating": 21,
+        "rating": 22,
         "title": "Introduction to Revit for Structural Engineers",
         "url": "https://www.pluralsight.com/courses/revit-structural-engineers-introduction"
     },
@@ -67180,7 +67180,7 @@
         "date": "Mar 13 2020",
         "length": 39,
         "level": "Beginner",
-        "rating": 258,
+        "rating": 259,
         "title": "Risk Management",
         "url": "https://www.pluralsight.com/courses/risk-management"
     },
@@ -67531,7 +67531,7 @@
         "date": "Jan 8 2020",
         "length": 91,
         "level": "Beginner",
-        "rating": 151,
+        "rating": 152,
         "title": "How to Run Effective Meetings",
         "url": "https://www.pluralsight.com/courses/run-effective-meetings"
     },
@@ -67603,7 +67603,7 @@
         "date": "Mar 15 2018",
         "length": 90,
         "level": "Intermediate",
-        "rating": 34,
+        "rating": 35,
         "title": "Reactive Programming with RxAndroid and Kotlin",
         "url": "https://www.pluralsight.com/courses/rxandroid-kotlin-reactive-programming"
     },
@@ -67693,7 +67693,7 @@
         "date": "May 3 2019",
         "length": 107,
         "level": "Beginner",
-        "rating": 13,
+        "rating": 14,
         "title": "Salesforce Automation with Flow Builder: Getting Started",
         "url": "https://www.pluralsight.com/courses/salesforce-automation-flow-builder"
     },
@@ -68341,7 +68341,7 @@
         "date": "Jun 6 2019",
         "length": 67,
         "level": "Advanced",
-        "rating": 24,
+        "rating": 25,
         "title": "Scraping Dynamic Web Pages with Python and Selenium",
         "url": "https://www.pluralsight.com/courses/scraping-dynamic-web-pages-python-selenium"
     },
@@ -68494,7 +68494,7 @@
         "date": "Dec 5 2016",
         "length": 86,
         "level": "Intermediate",
-        "rating": 94,
+        "rating": 95,
         "title": "Scrum Master Fundamentals - Growing Yourself and Your Team",
         "url": "https://www.pluralsight.com/courses/scrum-master-fundamentals-growing-team"
     },
@@ -68503,7 +68503,7 @@
         "date": "Nov 7 2016",
         "length": 166,
         "level": "Beginner",
-        "rating": 170,
+        "rating": 171,
         "title": "Scrum Master Fundamentals - Becoming a Great Scrum Master",
         "url": "https://www.pluralsight.com/courses/scrum-master-fundamentals-scrum-master"
     },
@@ -69007,7 +69007,7 @@
         "date": "Jun 7 2018",
         "length": 103,
         "level": "Beginner",
-        "rating": 12,
+        "rating": 13,
         "title": "Visualizing Statistical Data Using Seaborn",
         "url": "https://www.pluralsight.com/courses/seaborn-visualizing-statistical-data"
     },
@@ -69025,7 +69025,7 @@
         "date": "Jul 26 2019",
         "length": 71,
         "level": "Beginner",
-        "rating": 14,
+        "rating": 15,
         "title": "Searching and Manipulating Data in Excel",
         "url": "https://www.pluralsight.com/courses/searching-manipulating-data-excel"
     },
@@ -69223,7 +69223,7 @@
         "date": "Jun 21 2018",
         "length": 246,
         "level": "Beginner",
-        "rating": 26,
+        "rating": 27,
         "title": "Securing the Docker Platform",
         "url": "https://www.pluralsight.com/courses/securing-docker-platform"
     },
@@ -69520,7 +69520,7 @@
         "date": "Jun 7 2018",
         "length": 59,
         "level": "Intermediate",
-        "rating": 12,
+        "rating": 13,
         "title": "Security Controls and Control Frameworks",
         "url": "https://www.pluralsight.com/courses/security-controls-frameworks"
     },
@@ -69700,7 +69700,7 @@
         "date": "Apr 7 2017",
         "length": 160,
         "level": "Intermediate",
-        "rating": 14,
+        "rating": 15,
         "title": "LFCE: Network and Host Security",
         "url": "https://www.pluralsight.com/courses/security-network-host-lfce"
     },
@@ -69781,7 +69781,7 @@
         "date": "Jan 9 2020",
         "length": 90,
         "level": "Intermediate",
-        "rating": 11,
+        "rating": 12,
         "title": "Selecting the Right Tool(s) for Your Red Team Operation",
         "url": "https://www.pluralsight.com/courses/selecting-tools-red-team-operation"
     },
@@ -69817,7 +69817,7 @@
         "date": "Jan 21 2016",
         "length": 109,
         "level": "Intermediate",
-        "rating": 255,
+        "rating": 256,
         "title": "Semantic HTML",
         "url": "https://www.pluralsight.com/courses/semantic-html-2329"
     },
@@ -69916,7 +69916,7 @@
         "date": "Feb 25 2016",
         "length": 241,
         "level": "Beginner",
-        "rating": 32,
+        "rating": 33,
         "title": "Server Architecture for CompTIA Server+ (SK0-004)",
         "url": "https://www.pluralsight.com/courses/server-architecture-for-comptia-server-plus-sk0-004"
     },
@@ -70060,7 +70060,7 @@
         "date": "Jan 3 2020",
         "length": 50,
         "level": "Beginner",
-        "rating": 25,
+        "rating": 27,
         "title": "Setting up a Java Development Environment",
         "url": "https://www.pluralsight.com/courses/setting-up-java-development-environment"
     },
@@ -71896,7 +71896,7 @@
         "date": "Jun 18 2019",
         "length": 94,
         "level": "Beginner",
-        "rating": 11,
+        "rating": 12,
         "title": "Sketch Fundamentals",
         "url": "https://www.pluralsight.com/courses/sketch-fundamentals"
     },
@@ -72634,7 +72634,7 @@
         "date": "Jun 20 2015",
         "length": 184,
         "level": "Beginner",
-        "rating": 84,
+        "rating": 85,
         "title": "Social Media Marketing for Your Startup",
         "url": "https://www.pluralsight.com/courses/social-media-marketing-startup"
     },
@@ -72733,7 +72733,7 @@
         "date": "Jun 25 2019",
         "length": 120,
         "level": "Intermediate",
-        "rating": 78,
+        "rating": 80,
         "title": "SOLID Software Design Principles in Java",
         "url": "https://www.pluralsight.com/courses/solid-software-design-principles-java"
     },
@@ -73516,7 +73516,7 @@
         "date": "May 15 2018",
         "length": 75,
         "level": "Beginner",
-        "rating": 331,
+        "rating": 332,
         "title": "Spring: The Big Picture",
         "url": "https://www.pluralsight.com/courses/spring-big-picture"
     },
@@ -73552,7 +73552,7 @@
         "date": "Jun 6 2017",
         "length": 215,
         "level": "Intermediate",
-        "rating": 161,
+        "rating": 163,
         "title": "Spring Cloud Fundamentals",
         "url": "https://www.pluralsight.com/courses/spring-cloud-fundamentals"
     },
@@ -73633,7 +73633,7 @@
         "date": "Nov 7 2019",
         "length": 147,
         "level": "Beginner",
-        "rating": 85,
+        "rating": 88,
         "title": "Spring Framework: Spring Fundamentals",
         "url": "https://www.pluralsight.com/courses/spring-framework-spring-fundamentals"
     },
@@ -73642,7 +73642,7 @@
         "date": "Feb 12 2020",
         "length": 152,
         "level": "Beginner",
-        "rating": 36,
+        "rating": 38,
         "title": "Spring Framework: Spring MVC Fundamentals",
         "url": "https://www.pluralsight.com/courses/spring-framework-spring-mvc-fundamentals"
     },
@@ -73939,7 +73939,7 @@
         "date": "Oct 30 2012",
         "length": 220,
         "level": "Intermediate",
-        "rating": 725,
+        "rating": 726,
         "title": "SQL Server 2012 Querying (70-461) Part 2",
         "url": "https://www.pluralsight.com/courses/sql-server-2012-querying-pt2"
     },
@@ -73957,7 +73957,7 @@
         "date": "May 19 2014",
         "length": 67,
         "level": "Beginner",
-        "rating": 281,
+        "rating": 282,
         "title": "SQL Server 2014 DMV Diagnostic Queries - Part 1",
         "url": "https://www.pluralsight.com/courses/sql-server-2014-dmv-diagnostic-queries-part1"
     },
@@ -73966,7 +73966,7 @@
         "date": "Dec 11 2014",
         "length": 77,
         "level": "Intermediate",
-        "rating": 114,
+        "rating": 115,
         "title": "SQL Server 2014 DMV Diagnostic Queries - Part 2",
         "url": "https://www.pluralsight.com/courses/sql-server-2014-dmv-diagnostic-queries-part2"
     },
@@ -74146,7 +74146,7 @@
         "date": "Jun 15 2010",
         "length": 492,
         "level": "Beginner",
-        "rating": 657,
+        "rating": 658,
         "title": "SQL Server Fundamentals",
         "url": "https://www.pluralsight.com/courses/sql-server-fundamentals"
     },
@@ -74866,7 +74866,7 @@
         "date": "Aug 18 2016",
         "length": 41,
         "level": "Intermediate",
-        "rating": 58,
+        "rating": 59,
         "title": "Protocol Deep Dive: SSH and Telnet",
         "url": "https://www.pluralsight.com/courses/ssh-telnet-protocol-deep-dive"
     },
@@ -75829,7 +75829,7 @@
         "date": "Jan 10 2019",
         "length": 228,
         "level": "Beginner",
-        "rating": 513,
+        "rating": 516,
         "title": "Swift Fundamentals",
         "url": "https://www.pluralsight.com/courses/swift3-fundamentals"
     },
@@ -76531,7 +76531,7 @@
         "date": "Jul 23 2018",
         "length": 77,
         "level": "Intermediate",
-        "rating": 118,
+        "rating": 124,
         "title": "TDD with JUnit 5",
         "url": "https://www.pluralsight.com/courses/tdd-junit5"
     },
@@ -76900,7 +76900,7 @@
         "date": "May 3 2017",
         "length": 158,
         "level": "Beginner",
-        "rating": 192,
+        "rating": 193,
         "title": "TensorFlow: Getting Started",
         "url": "https://www.pluralsight.com/courses/tensorflow-getting-started"
     },
@@ -76999,7 +76999,7 @@
         "date": "Apr 14 2017",
         "length": 110,
         "level": "Beginner",
-        "rating": 190,
+        "rating": 191,
         "title": "Test-driven Development: The Big Picture",
         "url": "https://www.pluralsight.com/courses/test-driven-development-big-picture"
     },
@@ -77143,7 +77143,7 @@
         "date": "May 11 2018",
         "length": 216,
         "level": "Intermediate",
-        "rating": 144,
+        "rating": 145,
         "title": "Testing React Applications with Jest",
         "url": "https://www.pluralsight.com/courses/testing-react-applications-jest"
     },
@@ -77152,7 +77152,7 @@
         "date": "Feb 8 2019",
         "length": 98,
         "level": "Intermediate",
-        "rating": "",
+        "rating": 11,
         "title": "Testing Security Controls and Detecting Vulnerabilities with Nmap",
         "url": "https://www.pluralsight.com/courses/testing-security-controls-detecting-vulnerabilities-nmap"
     },
@@ -78385,7 +78385,7 @@
         "date": "Mar 8 2016",
         "length": 174,
         "level": "Beginner",
-        "rating": 203,
+        "rating": 204,
         "title": "Time Management for Technical Professionals",
         "url": "https://www.pluralsight.com/courses/time-management-technical-professionals"
     },
@@ -78835,7 +78835,7 @@
         "date": "Feb 5 2014",
         "length": 82,
         "level": "Beginner",
-        "rating": 21,
+        "rating": 22,
         "title": "Tracking in After Effects",
         "url": "https://www.pluralsight.com/courses/tracking-after-effects-1500"
     },
@@ -79015,7 +79015,7 @@
         "date": "Jan 30 2018",
         "length": 295,
         "level": "Intermediate",
-        "rating": 91,
+        "rating": 92,
         "title": "Webpack: Transpiling and Bundling JavaScript",
         "url": "https://www.pluralsight.com/courses/transpiling-bundling-javascript-webpack"
     },
@@ -79159,7 +79159,7 @@
         "date": "May 17 2019",
         "length": 157,
         "level": "Beginner",
-        "rating": 27,
+        "rating": 28,
         "title": "Troubleshooting Your First Low-performing T-SQL Query",
         "url": "https://www.pluralsight.com/courses/troubleshooting-first-low-performing-tsql-query"
     },
@@ -79456,7 +79456,7 @@
         "date": "Nov 22 2019",
         "length": 44,
         "level": "Beginner",
-        "rating": 108,
+        "rating": 110,
         "title": "TypeScript: The Big Picture",
         "url": "https://www.pluralsight.com/courses/typescript-big-picture"
     },
@@ -79474,7 +79474,7 @@
         "date": "Nov 27 2019",
         "length": 131,
         "level": "Beginner",
-        "rating": 24,
+        "rating": 25,
         "title": "Creating Object-oriented TypeScript Code",
         "url": "https://www.pluralsight.com/courses/typescript-creating-object-oriented-code"
     },
@@ -79483,7 +79483,7 @@
         "date": "Nov 12 2019",
         "length": 49,
         "level": "Intermediate",
-        "rating": 38,
+        "rating": 39,
         "title": "Creating and Using Generics in TypeScript",
         "url": "https://www.pluralsight.com/courses/typescript-generics-creating-using"
     },
@@ -79555,7 +79555,7 @@
         "date": "Sep 20 2014",
         "length": 192,
         "level": "Beginner",
-        "rating": 21,
+        "rating": 22,
         "title": "Typography for the Web",
         "url": "https://www.pluralsight.com/courses/typography-for-web-1790"
     },
@@ -79708,7 +79708,7 @@
         "date": "Feb 10 2017",
         "length": 252,
         "level": "Beginner",
-        "rating": 49,
+        "rating": 50,
         "title": "Understanding and Applying Linear Regression",
         "url": "https://www.pluralsight.com/courses/understanding-applying-linear-regression"
     },
@@ -79762,7 +79762,7 @@
         "date": "Mar 3 2020",
         "length": 150,
         "level": "Beginner",
-        "rating": 29,
+        "rating": 31,
         "title": "Understanding AWS Core Services",
         "url": "https://www.pluralsight.com/courses/understanding-aws-core-services"
     },
@@ -79924,7 +79924,7 @@
         "date": "Mar 27 2015",
         "length": 118,
         "level": "Intermediate",
-        "rating": 288,
+        "rating": 289,
         "title": "Understanding the Java Virtual Machine: Class Loading and Reflection",
         "url": "https://www.pluralsight.com/courses/understanding-java-vm-class-loading-reflection"
     },
@@ -79951,7 +79951,7 @@
         "date": "Sep 23 2019",
         "length": 43,
         "level": "Beginner",
-        "rating": 1810,
+        "rating": 1815,
         "title": "Understanding Machine Learning",
         "url": "https://www.pluralsight.com/courses/understanding-machine-learning"
     },
@@ -80230,7 +80230,7 @@
         "date": "Sep 27 2017",
         "length": 163,
         "level": "Beginner",
-        "rating": 163,
+        "rating": 164,
         "title": "Unity C# Scripting Fundamentals",
         "url": "https://www.pluralsight.com/courses/unity-2017-c-sharp-scripting-fundamentals"
     },
@@ -80257,7 +80257,7 @@
         "date": "Dec 14 2018",
         "length": 299,
         "level": "Beginner",
-        "rating": 97,
+        "rating": 99,
         "title": "Unity 2018 Fundamentals",
         "url": "https://www.pluralsight.com/courses/unity-2018-fundamentals"
     },
@@ -80419,7 +80419,7 @@
         "date": "May 20 2019",
         "length": 153,
         "level": "Intermediate",
-        "rating": 42,
+        "rating": 43,
         "title": "C# Scripting in Unity: Beyond the Basics",
         "url": "https://www.pluralsight.com/courses/unity-c-sharp-scripting-beyond-basics"
     },
@@ -80527,7 +80527,7 @@
         "date": "Oct 9 2019",
         "length": 57,
         "level": "Beginner",
-        "rating": 17,
+        "rating": 19,
         "title": "Finite State Machines in Unity",
         "url": "https://www.pluralsight.com/courses/unity-finite-state-machines"
     },
@@ -80536,7 +80536,7 @@
         "date": "Sep 27 2017",
         "length": 424,
         "level": "Beginner",
-        "rating": 290,
+        "rating": 291,
         "title": "Unity Fundamentals",
         "url": "https://www.pluralsight.com/courses/unity-fundamentals"
     },
@@ -81346,7 +81346,7 @@
         "date": "Dec 19 2018",
         "length": 143,
         "level": "Intermediate",
-        "rating": 204,
+        "rating": 207,
         "title": "C# Interfaces",
         "url": "https://www.pluralsight.com/courses/using-csharp-interfaces"
     },
@@ -81472,7 +81472,7 @@
         "date": "Feb 22 2016",
         "length": 64,
         "level": "Beginner",
-        "rating": 172,
+        "rating": 173,
         "title": "Using GitFlow",
         "url": "https://www.pluralsight.com/courses/using-gitflow"
     },
@@ -81607,7 +81607,7 @@
         "date": "Jul 10 2019",
         "length": 118,
         "level": "Intermediate",
-        "rating": 11,
+        "rating": 12,
         "title": "Using Memory-optimized Tables and Native Stored Procedures",
         "url": "https://www.pluralsight.com/courses/using-memory-optimized-tables-native-stored-procedures"
     },
@@ -81841,7 +81841,7 @@
         "date": "May 3 2019",
         "length": 113,
         "level": "Beginner",
-        "rating": 92,
+        "rating": 94,
         "title": "Using React Hooks",
         "url": "https://www.pluralsight.com/courses/using-react-hooks"
     },
@@ -81976,7 +81976,7 @@
         "date": "Mar 27 2020",
         "length": 46,
         "level": "Intermediate",
-        "rating": 12,
+        "rating": 13,
         "title": "ASP.NET Core and ASP.NET Input Validation",
         "url": "https://www.pluralsight.com/courses/using-validation-best-practices-secure-aspdotnet-core-applications"
     },
@@ -82336,7 +82336,7 @@
         "date": "Jan 3 2018",
         "length": 89,
         "level": "Intermediate",
-        "rating": 60,
+        "rating": 62,
         "title": "UX Design Creating Wireframes",
         "url": "https://www.pluralsight.com/courses/ux-design-creating-wireframes"
     },
@@ -82696,7 +82696,7 @@
         "date": "Sep 6 2018",
         "length": 69,
         "level": "Beginner",
-        "rating": 12,
+        "rating": 14,
         "title": "Virtualization in the Real World",
         "url": "https://www.pluralsight.com/courses/virtualization-real-world"
     },
@@ -82750,7 +82750,7 @@
         "date": "Feb 11 2013",
         "length": 146,
         "level": "Beginner",
-        "rating": 23,
+        "rating": 24,
         "title": "Visual Communication and Graphic Design Essentials",
         "url": "https://www.pluralsight.com/courses/visual-communication-graphic-design-essentials-1013"
     },
@@ -83299,7 +83299,7 @@
         "date": "May 25 2017",
         "length": 108,
         "level": "Beginner",
-        "rating": 20,
+        "rating": 21,
         "title": "Getting Started with VMware PowerCLI and Automation",
         "url": "https://www.pluralsight.com/courses/vmware-powercli-automation-getting-started"
     },
@@ -83974,7 +83974,7 @@
         "date": "Dec 15 2017",
         "length": 193,
         "level": "Beginner",
-        "rating": 30,
+        "rating": 31,
         "title": "vSphere 6.5 Foundations: Install and Configure vCenter and ESXi",
         "url": "https://www.pluralsight.com/courses/vsphere-6-5-foundations-install-configure-vcenter-esxi"
     },
@@ -84154,7 +84154,7 @@
         "date": "Sep 5 2019",
         "length": 224,
         "level": "Beginner",
-        "rating": 65,
+        "rating": 66,
         "title": "Vue: Getting Started",
         "url": "https://www.pluralsight.com/courses/vue-getting-started"
     },
@@ -84172,7 +84172,7 @@
         "date": "Aug 31 2018",
         "length": 66,
         "level": "Beginner",
-        "rating": 189,
+        "rating": 190,
         "title": "Vue.js: Big Picture",
         "url": "https://www.pluralsight.com/courses/vuejs-big-picture"
     },
@@ -84181,7 +84181,7 @@
         "date": "Jun 21 2018",
         "length": 305,
         "level": "Intermediate",
-        "rating": 179,
+        "rating": 180,
         "title": "Vue.js Fundamentals",
         "url": "https://www.pluralsight.com/courses/vuejs-fundamentals"
     },
@@ -84442,7 +84442,7 @@
         "date": "Aug 5 2019",
         "length": 111,
         "level": "Beginner",
-        "rating": 146,
+        "rating": 147,
         "title": "Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.1)",
         "url": "https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines"
     },
@@ -84532,7 +84532,7 @@
         "date": "Nov 3 2016",
         "length": 134,
         "level": "Intermediate",
-        "rating": 60,
+        "rating": 61,
         "title": "Web Application Penetration Testing with Burp Suite",
         "url": "https://www.pluralsight.com/courses/web-application-penetration-testing-with-burp-suite"
     },
@@ -84631,7 +84631,7 @@
         "date": "Apr 9 2015",
         "length": 658,
         "level": "Beginner",
-        "rating": 662,
+        "rating": 663,
         "title": "Introduction to Web Development",
         "url": "https://www.pluralsight.com/courses/web-development-intro"
     },
@@ -84658,7 +84658,7 @@
         "date": "Aug 7 2019",
         "length": 120,
         "level": "Beginner",
-        "rating": 34,
+        "rating": 35,
         "title": "Web Layouts with Flexbox and Bootstrap 4",
         "url": "https://www.pluralsight.com/courses/web-layouts-flexbox-bootstrap-4"
     },
@@ -84703,7 +84703,7 @@
         "date": "Mar 18 2014",
         "length": 123,
         "level": "Intermediate",
-        "rating": 1222,
+        "rating": 1223,
         "title": "Web Security and the OWASP Top 10: The Big Picture",
         "url": "https://www.pluralsight.com/courses/web-security-owasp-top10-big-picture"
     },
@@ -84928,7 +84928,7 @@
         "date": "Mar 19 2018",
         "length": 60,
         "level": "Intermediate",
-        "rating": 42,
+        "rating": 43,
         "title": "What's New in Java 10: Local-variable Type Inference",
         "url": "https://www.pluralsight.com/courses/whats-new-java-10-local-variable-type-inference"
     },
@@ -86017,7 +86017,7 @@
         "date": "Apr 23 2015",
         "length": 479,
         "level": "Beginner",
-        "rating": 16,
+        "rating": 17,
         "title": "Windows Client Administration Fundamentals",
         "url": "https://www.pluralsight.com/courses/windows-client-administration"
     },
@@ -86188,7 +86188,7 @@
         "date": "Feb 12 2014",
         "length": 316,
         "level": "Advanced",
-        "rating": 124,
+        "rating": 125,
         "title": "Windows Internals 3",
         "url": "https://www.pluralsight.com/courses/windows-internals-3"
     },
@@ -86440,7 +86440,7 @@
         "date": "Nov 10 2010",
         "length": 482,
         "level": "Intermediate",
-        "rating": 369,
+        "rating": 370,
         "title": "Windows Server 2008 Active Directory (70-640) Part 1",
         "url": "https://www.pluralsight.com/courses/windows-server-2008-active-directory-pt1"
     },
@@ -86935,7 +86935,7 @@
         "date": "Jul 10 2013",
         "length": 367,
         "level": "Intermediate",
-        "rating": 63,
+        "rating": 64,
         "title": "Windows Server 2012 High Availability: Networking and Clusters",
         "url": "https://www.pluralsight.com/courses/windows-server-2012-high-availability-pt1"
     },
@@ -87538,7 +87538,7 @@
         "date": "Jul 5 2016",
         "length": 250,
         "level": "Beginner",
-        "rating": 68,
+        "rating": 69,
         "title": "Wireshark 2.0: Fundamentals",
         "url": "https://www.pluralsight.com/courses/wireshark-2-0-fundamentals"
     },
@@ -87808,7 +87808,7 @@
         "date": "Nov 23 2015",
         "length": 100,
         "level": "Beginner",
-        "rating": 177,
+        "rating": 178,
         "title": "Working and Communicating with Different Personalities",
         "url": "https://www.pluralsight.com/courses/working-communicating-with-different-personalities"
     },
@@ -87916,7 +87916,7 @@
         "date": "Oct 8 2019",
         "length": 45,
         "level": "Beginner",
-        "rating": 30,
+        "rating": 31,
         "title": "Working with JavaScript Modules",
         "url": "https://www.pluralsight.com/courses/working-javascript-modules"
     },
@@ -88555,7 +88555,7 @@
         "date": "Jun 25 2018",
         "length": 181,
         "level": "Intermediate",
-        "rating": 164,
+        "rating": 166,
         "title": "Building an Enterprise Mobile Application with Xamarin.Forms",
         "url": "https://www.pluralsight.com/courses/xamarin-forms-enterprise-mobile-application"
     },
