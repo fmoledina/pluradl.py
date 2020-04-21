@@ -2562,6 +2562,7 @@ designing-fantasy-creature-from-reality-zbrush-1839
 designing-fluent-apis-c-sharp
 designing-futuristic-menus-illustrator-1107
 designing-game-boss-photoshop-851
+designing-hybrid-networks-aws
 designing-implementing-aws-networks
 designing-implementing-maintaining-business-continuity-plan
 designing-implementing-maintaining-disaster-recovery-plan
