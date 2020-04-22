@@ -5417,6 +5417,15 @@
         "title": "API Design and Fundamentals of Google Cloud's Apigee API Platform",
         "url": "https://www.pluralsight.com/courses/api-design-fundamentals-google-clouds-apigee-api-platform"
     },
+    "api-design-fundamentals-google-clouds-apigee-api-platform-update": {
+        "author": "Google Cloud",
+        "date": "Apr 22 2020",
+        "length": 73,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "API Design and Fundamentals of Google Cloud's Apigee API Platform",
+        "url": "https://www.pluralsight.com/courses/api-design-fundamentals-google-clouds-apigee-api-platform-update"
+    },
     "api-design-nodejs-express-mongo": {
         "author": "Scott Moss",
         "date": "Apr 5 2018",
@@ -5434,6 +5443,15 @@
         "rating": "",
         "title": "API Development on Google Cloud's Apigee API Platform",
         "url": "https://www.pluralsight.com/courses/api-development-google-clouds-apigee-api-platform"
+    },
+    "api-development-google-clouds-apigee-api-platform-update": {
+        "author": "Google Cloud",
+        "date": "Apr 22 2020",
+        "length": 83,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "API Development on Google Cloud's Apigee API Platform",
+        "url": "https://www.pluralsight.com/courses/api-development-google-clouds-apigee-api-platform-update"
     },
     "api-security-google-clouds-apigee-api-platform": {
         "author": "Google Cloud",
@@ -5623,6 +5641,15 @@
         "rating": "",
         "title": "Applying Matte Painting Techniques to Image Editing for the Web in Photoshop",
         "url": "https://www.pluralsight.com/courses/applying-matte-painting-techniques-image-editing-web-photoshop-1756"
+    },
+    "applying-mvvm-xamarin-forms-applications": {
+        "author": "Gill Cleeren",
+        "date": "Apr 22 2020",
+        "length": 118,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Applying MVVM in Xamarin.Forms Applications",
+        "url": "https://www.pluralsight.com/courses/applying-mvvm-xamarin-forms-applications"
     },
     "applying-post-production-techniques-silhouettefx-2193": {
         "author": "Alexander Costa",
@@ -9088,6 +9115,15 @@
         "rating": 25,
         "title": "Azure Site Recovery: IaaS Migration and Disaster Recovery",
         "url": "https://www.pluralsight.com/courses/azure-site-recovery-iaas-migration-disaster-recovery"
+    },
+    "azure-site-recovery-strategy-designing-update": {
+        "author": "Anthony Nocentino",
+        "date": "Apr 22 2020",
+        "length": 130,
+        "level": "Beginner",
+        "rating": "",
+        "title": "Designing a Site Recovery Strategy on Microsoft Azure",
+        "url": "https://www.pluralsight.com/courses/azure-site-recovery-strategy-designing-update"
     },
     "azure-solutions-70-534-storage-data-access": {
         "author": "Orin Thomas",

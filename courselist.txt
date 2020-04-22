@@ -600,8 +600,10 @@ apex-absolute-beginner-guide-coding-salesforce
 apex-fundamental-coding
 apex-soql-salesforce
 api-design-fundamentals-google-clouds-apigee-api-platform
+api-design-fundamentals-google-clouds-apigee-api-platform-update
 api-design-nodejs-express-mongo
 api-development-google-clouds-apigee-api-platform
+api-development-google-clouds-apigee-api-platform-update
 api-security-google-clouds-apigee-api-platform
 api-testing-hp-unified-functional-testing
 app-deployment-debugging-performance
@@ -623,6 +625,7 @@ applying-linear-algebra-with-r
 applying-machine-learning-data-gcp
 applying-mathematical-mass-model-r
 applying-matte-painting-techniques-image-editing-web-photoshop-1756
+applying-mvvm-xamarin-forms-applications
 applying-post-production-techniques-silhouettefx-2193
 applying-r-built-in-functions
 applying-responsive-retrofitting-techniques-fixed-width-site-css-1840
@@ -1008,6 +1011,7 @@ azure-service-fabric-production
 azure-service-fabric-programming-models
 azure-services-providing-disaster-recovery
 azure-site-recovery-iaas-migration-disaster-recovery
+azure-site-recovery-strategy-designing-update
 azure-solutions-70-534-storage-data-access
 azure-solutions-prepare-pass-exam-70-532
 azure-solutions-web-apps-70-532
