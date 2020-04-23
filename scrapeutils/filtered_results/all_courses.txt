@@ -2536,6 +2536,7 @@ designing-boss-battle-environment-photoshop-1210
 designing-building-enterprise-blazor-applications
 designing-cast-characters-photoshop-1089
 designing-char-mobile-games-zbrush-2393
+designing-cisco-enterprise-networks-advanced-enterprise-campus-networks
 designing-cisco-enterprise-networks-ipv4-ipv6-addressing-design
 designing-cisco-enterprise-networks-network-services
 designing-cisco-enterprise-networks-routing-protocols
