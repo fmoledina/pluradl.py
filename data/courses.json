@@ -12338,6 +12338,15 @@
         "title": "10 Ways to Build Web Services in .NET",
         "url": "https://www.pluralsight.com/courses/building-dotnet-web-services-10ways"
     },
+    "building-end-to-end-machine-learning-workflows-kubeflow": {
+        "author": "Abhishek Kumar",
+        "date": "Apr 24 2020",
+        "length": 210,
+        "level": "Beginner",
+        "rating": "",
+        "title": "Building End-to-end Machine Learning Workflows with Kubeflow",
+        "url": "https://www.pluralsight.com/courses/building-end-to-end-machine-learning-workflows-kubeflow"
+    },
     "building-enterprise-distributed-online-analytics-platform": {
         "author": "Kobi Hikri",
         "date": "May 8 2017",
@@ -22930,6 +22939,15 @@
         "rating": "",
         "title": "Designing for Complexity on AWS",
         "url": "https://www.pluralsight.com/courses/designing-complexity-aws"
+    },
+    "designing-computing-data-center-infrastructure-cisco": {
+        "author": "Greg Dickinson",
+        "date": "Apr 24 2020",
+        "length": 89,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Designing Computing for Cisco Data Center Infrastructure",
+        "url": "https://www.pluralsight.com/courses/designing-computing-data-center-infrastructure-cisco"
     },
     "designing-concert-poster-photoshop-2304": {
         "author": "Simeon Elson",
@@ -50545,8 +50563,8 @@
     },
     "microsoft-azure-storage-cors-access-configuring": {
         "author": "Kamran Ayub",
-        "date": "Jun 11 2019",
-        "length": 60,
+        "date": "Apr 24 2020",
+        "length": 64,
         "level": "Advanced",
         "rating": 12,
         "title": "Microsoft Azure Developer: Configuring CORS Access for Storage",
