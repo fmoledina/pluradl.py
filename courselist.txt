@@ -1308,6 +1308,7 @@ build-contribute-documentation-git-based-workflow
 build-customized-sharepoint-team-site-no-code
 build-dynamic-web-sites-mysql-php
 build-excel-addins-office-js-apis
+build-first-data-visualization-bokeh
 build-first-data-visualization-ggplot2
 build-first-data-visualization-google-charts
 build-first-data-visualization-matplotlib
@@ -2734,6 +2735,7 @@ disaster-recovery-for-comptia-server-plus-sk0-004
 disaster-recovery-planning
 discovering-business-analysis-information-through-elicitation
 discovering-use-weldments-sheet-metal-design-solidworks-1848
+discovery-adrecon
 discovery-bloodhound
 disintegration-teleportation-reintegration-effects-houdini-2322
 displaying-tables-with-excel
@@ -3328,6 +3330,7 @@ exploring-go-modules
 exploring-hidden-gems-sysinternals-toolkit
 exploring-human-muscles-setup-maya-2395
 exploring-layer-effects-styles-photoshop-1810
+exploring-lean-principles
 exploring-maya-2016-2022
 exploring-mental-ray-materials-maya-650
 exploring-modeling-workflows-maya-397
@@ -5370,6 +5373,7 @@ microservices-fundamentals
 microservices-nservicebus-scaling-applications
 microservices-nservicebus6-scaling-applications
 microservices-rest-apis-spring-data
+microservices-security-fundamentals
 microsoft-365-security-concepts
 microsoft-365-services-concepts
 microsoft-access-2016
@@ -8570,6 +8574,7 @@ testable-windows-8
 testcafe-end-to-end-web-testing-getting-started
 testing-and-prototyping-javascript-apps
 testing-angularjs-from-scratch
+testing-applications-comptia-pentest
 testing-automation-big-picture
 testing-debugging-ansible-automation
 testing-django-applications
