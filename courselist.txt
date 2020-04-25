@@ -84,6 +84,7 @@ add-dev-console-to-your-app-with-javascript-increase-productivity
 add-profit-to-business-by-adding-purpose
 adding-dynamics-mermaid-animation-bifrost-maya-1909
 adding-facial-topology-maya-294
+adding-graphics-web-pages-using-canvas-svg
 adding-keyframe-animation-motion-capture-maya-1813
 adfs-logon-server-by-example
 adfs2-and-wif35
@@ -2313,6 +2314,7 @@ cross-platform-native-apps-appcelerator-studio-alloy
 cross-platform-sql-server-management-developers-vs-code
 cross-site-forgery-request-web-app
 cross-site-request-forgery-csrf-prevention-asp-dot-net-core-applications
+cross-site-scripting-xss-prevention-asp-dot-net-core-applications
 crowdfunding-fundamentals
 crowds-houdini-15-2387
 crowds-populate-3ds-max-1207
@@ -4198,6 +4200,7 @@ information-security-introduction
 information-security-measures-iso-iec-27002
 information-security-threats-risks-iso-iec-27002
 information-systems-asset-protection-asset-security
+information-systems-asset-protection-securing-system-components
 information-systems-auditing-acquisition-development
 information-systems-auditing-big-picture
 information-systems-auditing-implementation
@@ -4859,6 +4862,7 @@ kotlin-junit5-unit-testing
 kotlin-using-coroutines
 kubernetes-developers-core-concepts
 kubernetes-developers-deploying-code
+kubernetes-developers-integrating-volumes-using-multi-container-pods
 kubernetes-developers-moving-cloud
 kubernetes-installation-configuration-fundamentals
 kusto-query-language-kql-from-scratch
@@ -5844,6 +5848,7 @@ modeling-architectural-ideas-3ds-max-2036
 modeling-ask-dts-maya-966
 modeling-assault-rifle-blender-2333
 modeling-automotive-interiors-modo-3491
+modeling-aws-machine-learning
 modeling-bracelet-rhino-zbrush-2114
 modeling-cartoon-props-3ds-max-96
 modeling-char-3d-printing-zbrush-887
@@ -7686,6 +7691,7 @@ section-drawings-revit-1501
 secure-account-management-fundamentals
 secure-coding-identifying-mitigating-xxe-vulnerabilities
 secure-coding-insecure-deserialization-preventing
+secure-coding-preventing-broken-access-control
 secure-coding-preventing-insufficient-logging-monitoring
 secure-coding-preventing-sensitive-data-exposure
 secure-coding-using-components-known-vulnerabilities

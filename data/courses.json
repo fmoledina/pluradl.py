@@ -773,6 +773,15 @@
         "title": "Adding Facial Topology in Maya",
         "url": "https://www.pluralsight.com/courses/adding-facial-topology-maya-294"
     },
+    "adding-graphics-web-pages-using-canvas-svg": {
+        "author": "Mike Van Sickle",
+        "date": "Apr 24 2020",
+        "length": 102,
+        "level": "Beginner",
+        "rating": "",
+        "title": "Adding Graphics to Web Pages Using Canvas and SVG",
+        "url": "https://www.pluralsight.com/courses/adding-graphics-web-pages-using-canvas-svg"
+    },
     "adding-keyframe-animation-motion-capture-maya-1813": {
         "author": "Ron Friedman",
         "date": "Oct 6 2014",
@@ -20834,6 +20843,15 @@
         "title": "Cross Site Request Forgery (CSRF) Prevention for ASP.NET Core and ASP.NET Applications",
         "url": "https://www.pluralsight.com/courses/cross-site-request-forgery-csrf-prevention-asp-dot-net-core-applications"
     },
+    "cross-site-scripting-xss-prevention-asp-dot-net-core-applications": {
+        "author": "Roland Guijt",
+        "date": "Apr 24 2020",
+        "length": 25,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Cross Site Scripting (XSS) Prevention for ASP.NET Core and ASP.NET Applications",
+        "url": "https://www.pluralsight.com/courses/cross-site-scripting-xss-prevention-asp-dot-net-core-applications"
+    },
     "crowdfunding-fundamentals": {
         "author": "Devin Thorpe",
         "date": "Feb 11 2014",
@@ -37799,6 +37817,15 @@
         "title": "Information Systems Asset Protection: Asset Security",
         "url": "https://www.pluralsight.com/courses/information-systems-asset-protection-asset-security"
     },
+    "information-systems-asset-protection-securing-system-components": {
+        "author": "Kevin Henry",
+        "date": "Apr 25 2020",
+        "length": 180,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Information Systems Asset Protection: Securing System Components",
+        "url": "https://www.pluralsight.com/courses/information-systems-asset-protection-securing-system-components"
+    },
     "information-systems-auditing-acquisition-development": {
         "author": "Kevin Henry",
         "date": "Dec 10 2019",
@@ -43747,6 +43774,15 @@
         "rating": 14,
         "title": "Kubernetes for Developers: Deploying Your Code",
         "url": "https://www.pluralsight.com/courses/kubernetes-developers-deploying-code"
+    },
+    "kubernetes-developers-integrating-volumes-using-multi-container-pods": {
+        "author": "Nigel Poulton",
+        "date": "Apr 24 2020",
+        "length": 146,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Kubernetes for Developers: Integrating Volumes and Using Multi-container Pods",
+        "url": "https://www.pluralsight.com/courses/kubernetes-developers-integrating-volumes-using-multi-container-pods"
     },
     "kubernetes-developers-moving-cloud": {
         "author": "Craig Golightly",
@@ -52612,6 +52648,15 @@
         "rating": "",
         "title": "Modeling Automotive Interiors in modo",
         "url": "https://www.pluralsight.com/courses/modeling-automotive-interiors-modo-3491"
+    },
+    "modeling-aws-machine-learning": {
+        "author": "Saravanan Dhandapani",
+        "date": "Apr 25 2020",
+        "length": 133,
+        "level": "Advanced",
+        "rating": "",
+        "title": "Modeling with AWS Machine Learning",
+        "url": "https://www.pluralsight.com/courses/modeling-aws-machine-learning"
     },
     "modeling-bracelet-rhino-zbrush-2114": {
         "author": "Jean Gorospe",
@@ -69190,6 +69235,15 @@
         "rating": 34,
         "title": "Secure Coding: Preventing Insecure Deserialization",
         "url": "https://www.pluralsight.com/courses/secure-coding-insecure-deserialization-preventing"
+    },
+    "secure-coding-preventing-broken-access-control": {
+        "author": "Gavin Johnson-Lynn",
+        "date": "Apr 24 2020",
+        "length": 115,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Secure Coding: Preventing Broken Access Control",
+        "url": "https://www.pluralsight.com/courses/secure-coding-preventing-broken-access-control"
     },
     "secure-coding-preventing-insufficient-logging-monitoring": {
         "author": "Peter Mosmans",
