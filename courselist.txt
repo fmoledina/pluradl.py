@@ -3476,6 +3476,7 @@ forming-epic-terrains-udk-1105
 fostering-diverse-inclusive-culture
 foundational-elements-art-rest-life-1011
 foundational-tcp-analysis-wireshark
+foundations-lean-six-sigma
 foundations-pytorch
 four-semesters-computer-science
 fpga-vhdl-beyond-basics
