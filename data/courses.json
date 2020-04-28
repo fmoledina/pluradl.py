@@ -18926,6 +18926,15 @@
         "title": "Configuring Exchange Server 2013 with SharePoint 2013",
         "url": "https://www.pluralsight.com/courses/configuring-exchange-server-2013-with-sharepoint-2013"
     },
+    "configuring-managing-cisco-data-center-lab": {
+        "author": "Sean Douglas",
+        "date": "Apr 27 2020",
+        "length": 164,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Cisco Data Center Core: Configuring and Managing a Cisco Data Center Lab",
+        "url": "https://www.pluralsight.com/courses/configuring-managing-cisco-data-center-lab"
+    },
     "configuring-managing-kubernetes-storage-scheduling": {
         "author": "Anthony Nocentino",
         "date": "Jan 21 2020",
@@ -22112,6 +22121,15 @@
         "title": "DDD and EF Core: Preserving Encapsulation",
         "url": "https://www.pluralsight.com/courses/ddd-ef-core-preserving-encapsulation"
     },
+    "dealing-credentials-when-securing-aspdotnet-core-3-application": {
+        "author": "Kevin Dockx",
+        "date": "Apr 27 2020",
+        "length": 234,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Dealing with Credentials When Securing an ASP.NET Core 3 Application",
+        "url": "https://www.pluralsight.com/courses/dealing-credentials-when-securing-aspdotnet-core-3-application"
+    },
     "dealing-with-new-company-culture": {
         "author": "Doru Catana",
         "date": "Nov 30 2017",
@@ -24712,6 +24730,15 @@
         "rating": "",
         "title": "Distorting Nature in After Effects",
         "url": "https://www.pluralsight.com/courses/distorting-nature-after-effects-2218"
+    },
+    "distributed-systems-the-big-picture": {
+        "author": "Prateek Parekh",
+        "date": "Apr 27 2020",
+        "length": 53,
+        "level": "Beginner",
+        "rating": "",
+        "title": "Distributed Systems: The Big Picture",
+        "url": "https://www.pluralsight.com/courses/distributed-systems-the-big-picture"
     },
     "distributing-excel-workbooks": {
         "author": "Eugene Meidinger",
@@ -27809,6 +27836,15 @@
         "title": "Elastic Cloud Infrastructure - Scaling and Automation",
         "url": "https://www.pluralsight.com/courses/elastic-cloud-infrastructure-scaling-automation"
     },
+    "elastic-google-cloud-infrastructure-scaling-automation": {
+        "author": "Google Cloud",
+        "date": "Apr 27 2020",
+        "length": 178,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Elastic Google Cloud Infrastructure: Scaling and Automation",
+        "url": "https://www.pluralsight.com/courses/elastic-google-cloud-infrastructure-scaling-automation"
+    },
     "elasticsearch-analyzing-data": {
         "author": "Janani Ravi",
         "date": "Jun 16 2017",
@@ -28609,6 +28645,24 @@
         "rating": 11,
         "title": "Maya Dynamics: Quick Tips for Essential Effects",
         "url": "https://www.pluralsight.com/courses/essential-effects-vfx-animation"
+    },
+    "essential-google-cloud-infrastructure-core-services": {
+        "author": "Google Cloud",
+        "date": "Apr 27 2020",
+        "length": 197,
+        "level": "Beginner",
+        "rating": "",
+        "title": "Essential Google Cloud Infrastructure: Core Services",
+        "url": "https://www.pluralsight.com/courses/essential-google-cloud-infrastructure-core-services"
+    },
+    "essential-google-cloud-infrastructure-foundation": {
+        "author": "Google Cloud",
+        "date": "Apr 27 2020",
+        "length": 197,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Essential Google Cloud Infrastructure: Foundation",
+        "url": "https://www.pluralsight.com/courses/essential-google-cloud-infrastructure-foundation"
     },
     "essential-strategies-hand-painting-textures-mari-1603": {
         "author": "Eddie Russell",
@@ -30868,6 +30922,15 @@
         "rating": "",
         "title": "Scripting a 1st Person Assault Course in Unreal Engine",
         "url": "https://www.pluralsight.com/courses/first-person-shooter-unreal-engine-2074"
+    },
+    "first-steps-it-governance-management": {
+        "author": "Chris Ward",
+        "date": "Apr 27 2020",
+        "length": 41,
+        "level": "Beginner",
+        "rating": "",
+        "title": "IT Governance and Management: First Steps",
+        "url": "https://www.pluralsight.com/courses/first-steps-it-governance-management"
     },
     "five-architecture-facades-3ds-max-v-ray-1452": {
         "author": "Micha Koren",
@@ -44180,6 +44243,15 @@
         "title": "Creating a Wind Blown Leaves Simulation Using nCloth in Maya",
         "url": "https://www.pluralsight.com/courses/leaves-simulation-ncloth-maya-1459"
     },
+    "legal-ethical-considerations-digital-forensics": {
+        "author": "Rogers",
+        "date": "Apr 27 2020",
+        "length": 128,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Legal and Ethical Considerations for Digital Forensics",
+        "url": "https://www.pluralsight.com/courses/legal-ethical-considerations-digital-forensics"
+    },
     "less-getting-started": {
         "author": "Shawn Wildermuth",
         "date": "Sep 19 2018",
@@ -46645,6 +46717,15 @@
         "rating": "",
         "title": "Mastercam - Introduction to the Basics",
         "url": "https://www.pluralsight.com/courses/mastercam-introduction-basics"
+    },
+    "mastering-bash-z-shell-scripting-syntax": {
+        "author": "Andrew Mallett",
+        "date": "Apr 27 2020",
+        "length": 163,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Mastering Bash and Z Shell Scripting Syntax",
+        "url": "https://www.pluralsight.com/courses/mastering-bash-z-shell-scripting-syntax"
     },
     "mastering-css-animations-2135": {
         "author": "Gary Simon",
@@ -54575,6 +54656,24 @@
         "title": "Networking in GCP - Hybrid Connectivity and Network Management",
         "url": "https://www.pluralsight.com/courses/networking-gcp-hybrid-connectivity-network-management"
     },
+    "networking-google-cloud-defining-implementing-networks": {
+        "author": "Google Cloud",
+        "date": "Apr 27 2020",
+        "length": 210,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Networking in Google Cloud: Defining and Implementing Networks",
+        "url": "https://www.pluralsight.com/courses/networking-google-cloud-defining-implementing-networks"
+    },
+    "networking-google-cloud-hybrid-connectivity-network-management": {
+        "author": "Google Cloud",
+        "date": "Apr 27 2020",
+        "length": 198,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Networking in Google Cloud: Hybrid Connectivity and Network Management",
+        "url": "https://www.pluralsight.com/courses/networking-google-cloud-hybrid-connectivity-network-management"
+    },
     "networking-tunnels-junos-os": {
         "author": "Martin Brown",
         "date": "May 31 2018",
@@ -61315,6 +61414,15 @@
         "rating": "",
         "title": "How Power BI Users Can Talk to Data Engineers",
         "url": "https://www.pluralsight.com/courses/power-bi-users-talk-to-data-engineers"
+    },
+    "power-platform-administration-foundation": {
+        "author": "Vishwas Lele",
+        "date": "Apr 27 2020",
+        "length": 127,
+        "level": "Intermediate",
+        "rating": "",
+        "title": "Microsoft Power Platform Administration Foundation",
+        "url": "https://www.pluralsight.com/courses/power-platform-administration-foundation"
     },
     "power-query-data-retrieve-transform-combine": {
         "author": "Ben Howard",
@@ -76750,6 +76858,15 @@
         "rating": 202,
         "title": "Team Foundation Server 2013 New Features",
         "url": "https://www.pluralsight.com/courses/team-foundation-server-2013-new-features"
+    },
+    "team-time-management-techniques": {
+        "author": "Doru Catana",
+        "date": "Apr 27 2020",
+        "length": 91,
+        "level": "Beginner",
+        "rating": "",
+        "title": "Team Time Management Techniques",
+        "url": "https://www.pluralsight.com/courses/team-time-management-techniques"
     },
     "teamcity-getting-started": {
         "author": "Wes Higbee",

@@ -2101,6 +2101,7 @@ configuring-cisco-video-collaboration-endpoints
 configuring-complex-ip-routing-arubaos-switch
 configuring-cors-in-aspnet-and-aspnet-core
 configuring-exchange-server-2013-with-sharepoint-2013
+configuring-managing-cisco-data-center-lab
 configuring-managing-kubernetes-storage-scheduling
 configuring-managing-monitoring-mobile-devices-mdm
 configuring-managing-office-365-security
@@ -2455,6 +2456,7 @@ daydreamer-production-pipeline-7-compositing-2249
 dbg-chron1
 dbg-chron2
 ddd-ef-core-preserving-encapsulation
+dealing-credentials-when-securing-aspdotnet-core-3-application
 dealing-with-new-company-culture
 debugging-chronicles3
 debugging-powershell-vs-code
@@ -2744,6 +2746,7 @@ discovery-bloodhound
 disintegration-teleportation-reintegration-effects-houdini-2322
 displaying-tables-with-excel
 distorting-nature-after-effects-2218
+distributed-systems-the-big-picture
 distributing-excel-workbooks
 django-1-7-whats-new
 django-angularjs-web-development
@@ -3088,6 +3091,7 @@ efficient-workflows-creature-concept-design-photoshop-1582
 efmigrations
 elastic-beanstalk-building-applications
 elastic-cloud-infrastructure-scaling-automation
+elastic-google-cloud-infrastructure-scaling-automation
 elasticsearch-analyzing-data
 elasticsearch-designing-schema
 elasticsearch-for-dotnet-developers
@@ -3177,6 +3181,8 @@ eslint-better-code-quality
 essential-cloud-infrastructure-core-services
 essential-cloud-infrastructure-foundation
 essential-effects-vfx-animation
+essential-google-cloud-infrastructure-core-services
+essential-google-cloud-infrastructure-foundation
 essential-strategies-hand-painting-textures-mari-1603
 essential-strategies-hand-painting-textures-mari-625
 essential-strategies-hand-painting-textures-mudbox-1585
@@ -3428,6 +3434,7 @@ first-day-edge-animate-1697
 first-day-rendering-autocad-1647
 first-day-storyboard-pro-1538
 first-person-shooter-unreal-engine-2074
+first-steps-it-governance-management
 five-architecture-facades-3ds-max-v-ray-1452
 five-essential-tools-building-rest-api
 fixie-introduction
@@ -4907,6 +4914,7 @@ learning-programming-scratch
 learning-technology-information-age
 learning-work-quickly-efficiently-rhino-1850
 leaves-simulation-ncloth-maya-1459
+legal-ethical-considerations-digital-forensics
 less-getting-started
 level-streaming-kismet-udk-1554
 leveraging-common-middleware-packages
@@ -5181,6 +5189,7 @@ master-detail-workflow-ef-mvc-identity-modals
 master-domain
 master-modeling-multi-body-parts-solidworks-2052
 mastercam-introduction-basics
+mastering-bash-z-shell-scripting-syntax
 mastering-css-animations-2135
 mastering-displacement-maps-maya-661
 mastering-git
@@ -6062,6 +6071,8 @@ networking-fundamentals-pt1
 networking-fundamentals-pt2
 networking-gcp-defining-implementing-networks
 networking-gcp-hybrid-connectivity-network-management
+networking-google-cloud-defining-implementing-networks
+networking-google-cloud-hybrid-connectivity-network-management
 networking-tunnels-junos-os
 new-bigquery-datasets-visualizing-insights
 new-features-hdr-light-studio-2-491
@@ -6811,6 +6822,7 @@ power-bi-quick-insights-qna
 power-bi-reports-deploying-publishing
 power-bi-rest-api-building-first-application
 power-bi-users-talk-to-data-engineers
+power-platform-administration-foundation
 power-query-data-retrieve-transform-combine
 powercli-vmware-vsphere-automated-reporting
 powerful-lighting-effects-photoshop-1640
@@ -8526,6 +8538,7 @@ teaching-kids-programming
 team-collaboration-communication
 team-foundation-build-2010-intro
 team-foundation-server-2013-new-features
+team-time-management-techniques
 teamcity-getting-started
 teched-2011-bonus-sessions
 technical-business-analyst
