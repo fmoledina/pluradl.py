@@ -1525,11 +1525,13 @@ c-sharp-design-patterns-builder
 c-sharp-design-patterns-chain-responsibility
 c-sharp-design-patterns-composite
 c-sharp-design-patterns-decorator
+c-sharp-design-patterns-flyweight
 c-sharp-design-patterns-mediator
 c-sharp-design-patterns-prototype
 c-sharp-design-patterns-proxy
 c-sharp-design-patterns-state
 c-sharp-design-patterns-strategy
+c-sharp-design-patterns-visitor
 c-sharp-dynamic-fundamentals
 c-sharp-error-handling-exceptions
 c-sharp-extension-methods
@@ -2092,6 +2094,7 @@ conducting-business-analysis-developing-requirements
 confident-coding-automated-testing-aspdotnet-mvc
 configuration-client-connectivity-cisco-wifund-200-355
 configuration-deployment-cloud-cv0-002
+configure-protect-devices-microsoft-intune
 configuring-aad-microsoft-azure-workloads
 configuring-accounts-apple-certified-technical-coordinator-10-11
 configuring-cisco-router
@@ -2662,6 +2665,7 @@ developing-symbol-systems-illustrator-1874
 developing-team-culture
 developing-unified-asset-systems-illustrator-2295
 developing-web-applications-apis-protected-azure-active-directory
+developing-websites-accessibility-getting-started
 developing-workflow-rendering-fur-v-ray-2154
 device-driven-web-solutions-wurfl
 device-hardening-cnd
@@ -3139,6 +3143,7 @@ enhancing-maya-toolset-mel-1338
 enhancing-maya-toolsets-python-1410
 enhancing-rigs-driven-keys-maya-1194
 enhancing-rigs-maya-muscle-578
+enroll-devices-microsoft-intune
 enrolling-securing-managing-devices-microsoft-intune
 enterprise-aws-lambdas-java-eclipse-ide
 enterprise-business-intelligence-tableau-server
@@ -4112,6 +4117,7 @@ implementing-managing-office-365-advanced-threat-protection
 implementing-message-brokering-amazon-mq
 implementing-mobile-device-management-microsoft-365
 implementing-monitoring-threat-management-microsoft-365
+implementing-monte-carlo-method-r
 implementing-netscaler-12-high-availability
 implementing-ospf-ccnp-routing-switching-300-101-route
 implementing-performing-risk-management-iso-iec-27005
@@ -4365,6 +4371,7 @@ intro-xsi-6-2496
 intro-xsi-7-3533
 intro-zbrush-3-3108
 intro-zbrush-4r7-2090
+introduce-microsoft-endpoint-manager-prepare-microsoft-intune
 introducing-cisco-data-center-networking
 introducing-office-ui-fabric
 introducing-scrum
@@ -5151,6 +5158,7 @@ managing-source-control-aws-codecommit
 managing-sql-server-database-maintenance
 managing-sql-server-database-performance
 managing-stakeholder-relationships
+managing-strategy-vision
 managing-subscription-tenant-health
 managing-synchronizing-microsoft-365-azure-identities
 managing-technical-professionals
@@ -8537,6 +8545,7 @@ tdd-spring-junit5
 teaching-kids-basic-html
 teaching-kids-programming
 team-collaboration-communication
+team-communication-collaboration-confluence
 team-foundation-build-2010-intro
 team-foundation-server-2013-new-features
 team-time-management-techniques
@@ -8789,6 +8798,7 @@ toy-model-rapid-prototyping-rhino-1306
 tpl-async
 tq-ai-channel-introduction
 tq-artificial-intelligence
+tracing-leveraging-requirements
 track-mattes-after-effects-1610
 tracking-after-effects-1500
 tracking-syntheyes-maya-1866
