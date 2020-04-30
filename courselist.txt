@@ -178,6 +178,7 @@ advanced-maya-fur-menus-263
 advanced-modeling-tools-revit-1509
 advanced-network-system-administration-lfce
 advanced-networking-aws
+advanced-networking-security-aws
 advanced-persistent-threats-big-picture
 advanced-powershell-dsc
 advanced-production-techniques-3dequalizer-nuke-1679
@@ -1389,6 +1390,7 @@ building-flare-tool-nuke-2067
 building-futuristic-armor-zbrush-806
 building-fx-tools-houdini-2202
 building-graphql-apis-aspdotnet-core
+building-hardware-labs-ccna-study
 building-healthy-interpersonal-relationships-work
 building-high-performance-team
 building-high-performance-windows8-applications
@@ -1524,6 +1526,7 @@ c-sharp-design-patterns-adapter
 c-sharp-design-patterns-builder
 c-sharp-design-patterns-chain-responsibility
 c-sharp-design-patterns-composite
+c-sharp-design-patterns-data-access-patterns
 c-sharp-design-patterns-decorator
 c-sharp-design-patterns-flyweight
 c-sharp-design-patterns-mediator
@@ -1723,6 +1726,7 @@ cisco-data-center-core-implementing-automation
 cisco-e164-dial-plan-multisite-deployments
 cisco-edge-network-design-ccda-desgn-200-310
 cisco-enterprise-networks-basic-networking-ip-fundamentals
+cisco-enterprise-networks-implementing-eigrp
 cisco-enterprise-networks-implementing-ospf
 cisco-enterprise-networks-spanning-tree-protocols-etherchannels
 cisco-enterprise-networks-vlans-trunking
@@ -2174,6 +2178,27 @@ coreos-getting-started
 correlating-events-transactions-splunk
 costumes-production-maya-2070
 couchdb-with-rails
+covid-19-closing-thoughts
+covid-19-coronavirus-pandemic-new-normal
+covid-19-crowdsourcing-monitor-epidemics
+covid-19-curing-diseases
+covid-19-digital-epidemic-management
+covid-19-fake-news-global-emergencies
+covid-19-food-earth
+covid-19-government-organization-responses
+covid-19-leadership
+covid-19-leadership-change-remote-work
+covid-19-leverage-ai-pandemics
+covid-19-pandemics-resilient-cities
+covid-19-polarizing-pandemics
+covid-19-remote-distributed-work-crises
+covid-19-responding-other-outbreaks
+covid-19-self-reliant-neighborhoods
+covid-19-slowing-contagion
+covid-19-staying-healthy
+covid-19-take-action-uncertainty
+covid-19-use-data-boost-resilience
+covid-19-virtual-worlds
 cplusplus-11-from-scratch
 cplusplus-14-practical-features
 cplusplus-17-beyond-the-basics
@@ -4880,6 +4905,7 @@ kubernetes-developers-deploying-code
 kubernetes-developers-integrating-volumes-using-multi-container-pods
 kubernetes-developers-moving-cloud
 kubernetes-installation-configuration-fundamentals
+kubernetes-packaging-applications-helm
 kusto-query-language-kql-from-scratch
 language-data-executive-briefing
 laravel-php-framework-getting-started-models-data
@@ -5533,6 +5559,7 @@ microsoft-azure-feasibility-determining-requirements-refining
 microsoft-azure-feature-selection-extraction
 microsoft-azure-file-storage-implementing
 microsoft-azure-functional-non-functional-requirements-aligning
+microsoft-azure-functional-non-functional-requirements-aligning-update
 microsoft-azure-governance-mastering
 microsoft-azure-high-availability-designing
 microsoft-azure-host-security-implementing
