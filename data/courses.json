@@ -5229,7 +5229,7 @@
         "url": "https://www.pluralsight.com/courses/annotating-ggplot2-visualizations-r"
     },
     "ansible-fundamentals": {
-        "author": "Pluralsight",
+        "author": "Red Hat",
         "date": "Apr 15 2020",
         "length": 223,
         "level": "Intermediate",
@@ -5238,7 +5238,7 @@
         "url": "https://www.pluralsight.com/courses/ansible-fundamentals"
     },
     "ansible-windows-fundamentals": {
-        "author": "Pluralsight",
+        "author": "Red Hat",
         "date": "Apr 15 2020",
         "length": 121,
         "level": "Intermediate",
@@ -6961,7 +6961,7 @@
         "date": "Dec 19 2019",
         "length": 63,
         "level": "Intermediate",
-        "rating": "",
+        "rating": 11,
         "title": "Assessing Red Team Post Exploitation Activity",
         "url": "https://www.pluralsight.com/courses/assessing-red-team-post-exploitation-activity"
     },
@@ -7429,7 +7429,7 @@
         "date": "Feb 5 2019",
         "length": 98,
         "level": "Intermediate",
-        "rating": 88,
+        "rating": 90,
         "title": "Automated Tests in Java with Fluent Interface Using WebDriver Selenium",
         "url": "https://www.pluralsight.com/courses/automated-tests-java-fluent-interface-webdriver-selenium"
     },
@@ -7488,7 +7488,7 @@
         "url": "https://www.pluralsight.com/courses/automating-cisco-meraki-operations-using-apis"
     },
     "automating-container-management-ansible": {
-        "author": "Pluralsight",
+        "author": "Red Hat",
         "date": "Apr 29 2020",
         "length": 51,
         "level": "Beginner",
@@ -7497,7 +7497,7 @@
         "url": "https://www.pluralsight.com/courses/automating-container-management-ansible"
     },
     "automating-deployment-amazon-ec2-ansible": {
-        "author": "Pluralsight",
+        "author": "Red Hat",
         "date": "Apr 15 2020",
         "length": 65,
         "level": "Intermediate",
@@ -8275,7 +8275,7 @@
         "date": "Jan 25 2018",
         "length": 150,
         "level": "Intermediate",
-        "rating": 43,
+        "rating": 44,
         "title": "AWS Networking Deep Dive: Elastic Load Balancing (ELB)",
         "url": "https://www.pluralsight.com/courses/aws-networking-deep-dive-elb"
     },
@@ -19912,7 +19912,7 @@
         "date": "Nov 19 2018",
         "length": 302,
         "level": "Intermediate",
-        "rating": 29,
+        "rating": 30,
         "title": "Beautiful C++: Updating Legacy Code",
         "url": "https://www.pluralsight.com/courses/cpp-updating-legacy-code"
     },
@@ -21091,7 +21091,7 @@
         "date": "Oct 9 2017",
         "length": 51,
         "level": "Beginner",
-        "rating": 55,
+        "rating": 56,
         "title": "Web App Hacking: Cross-Site Request Forgery (CSRF)",
         "url": "https://www.pluralsight.com/courses/cross-site-forgery-request-web-app"
     },
@@ -25420,7 +25420,7 @@
         "date": "Aug 14 2017",
         "length": 98,
         "level": "Beginner",
-        "rating": 179,
+        "rating": 180,
         "title": "The .NET Ecosystem: The Big Picture",
         "url": "https://www.pluralsight.com/courses/dotnet-ecosystem-big-picture"
     },
@@ -30514,7 +30514,7 @@
         "date": "Nov 20 2017",
         "length": 129,
         "level": "Beginner",
-        "rating": 19,
+        "rating": 20,
         "title": "Extending Adobe Experience Manager Foundations",
         "url": "https://www.pluralsight.com/courses/extending-aem-foundations"
     },
@@ -31873,7 +31873,7 @@
         "date": "May 25 2016",
         "length": 334,
         "level": "Beginner",
-        "rating": 1157,
+        "rating": 1158,
         "title": "Become a Full-stack .NET Developer",
         "url": "https://www.pluralsight.com/courses/full-stack-dot-net-developer-fundamentals"
     },
@@ -36184,7 +36184,7 @@
         "date": "May 7 2019",
         "length": 103,
         "level": "Advanced",
-        "rating": 33,
+        "rating": 34,
         "title": "Building on HTML5: Optimizing for Data, Communication and Offline Apps",
         "url": "https://www.pluralsight.com/courses/html5-optimizing-data-communication-offline-apps"
     },
@@ -60196,7 +60196,7 @@
         "date": "Mar 6 2017",
         "length": 89,
         "level": "Beginner",
-        "rating": 109,
+        "rating": 110,
         "title": "Play by Play: iOS and Swift from Scratch",
         "url": "https://www.pluralsight.com/courses/play-by-play-ios-swift-from-scratch"
     },
@@ -60448,7 +60448,7 @@
         "date": "May 14 2018",
         "length": 72,
         "level": "Beginner",
-        "rating": 102,
+        "rating": 103,
         "title": "Play by Play: OWASP Top 10 2017",
         "url": "https://www.pluralsight.com/courses/play-by-play-owasp-top-ten-2017"
     },
@@ -65632,7 +65632,7 @@
         "date": "Apr 21 2018",
         "length": 88,
         "level": "Beginner",
-        "rating": 142,
+        "rating": 143,
         "title": "A Practical Start with React",
         "url": "https://www.pluralsight.com/courses/react-practical-start"
     },
@@ -66078,7 +66078,7 @@
         "url": "https://www.pluralsight.com/courses/recording-managing-excel-macros"
     },
     "red-hat-ansible-tower-managing": {
-        "author": "Pluralsight",
+        "author": "Red Hat",
         "date": "Apr 15 2020",
         "length": 54,
         "level": "Intermediate",
@@ -77724,7 +77724,7 @@
         "url": "https://www.pluralsight.com/courses/testing-automation-big-picture"
     },
     "testing-debugging-ansible-automation": {
-        "author": "Pluralsight",
+        "author": "Red Hat",
         "date": "Apr 15 2020",
         "length": 31,
         "level": "Intermediate",
@@ -80131,7 +80131,7 @@
         "date": "Mar 4 2016",
         "length": 280,
         "level": "Intermediate",
-        "rating": 444,
+        "rating": 446,
         "title": "TypeScript In-depth",
         "url": "https://www.pluralsight.com/courses/typescript-in-depth"
     },
@@ -82102,7 +82102,7 @@
         "date": "Feb 22 2016",
         "length": 64,
         "level": "Beginner",
-        "rating": 174,
+        "rating": 175,
         "title": "Using GitFlow",
         "url": "https://www.pluralsight.com/courses/using-gitflow"
     },
@@ -83317,7 +83317,7 @@
         "date": "Feb 14 2018",
         "length": 59,
         "level": "Beginner",
-        "rating": 54,
+        "rating": 55,
         "title": "Virtualization: The Big Picture",
         "url": "https://www.pluralsight.com/courses/virtualization-big-picture"
     },
@@ -89626,7 +89626,7 @@
         "date": "Jul 8 2013",
         "length": 101,
         "level": "Beginner",
-        "rating": 21,
+        "rating": 22,
         "title": "Your First Day of Tracking in NUKE",
         "url": "https://www.pluralsight.com/courses/your-first-day-tracking-nuke-1206"
     },
